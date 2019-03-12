@@ -7,7 +7,7 @@
   <artifactId>bcel-builder</artifactId>
   <packaging>jar</packaging>
   <name>bcel-builder</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
 
 	<parent>
 		<groupId>org.aspectj</groupId>
