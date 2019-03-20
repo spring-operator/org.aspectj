@@ -2,14 +2,14 @@
 #
 # File Name:            CDATASection.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/CDATASection.py.html
+# Documentation:        https://docs.4suite.com/4DOM/CDATASection.py.html
 #
 """
 Implementation of DOM Level 2 CDATASection interface
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://4suite.com/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://4suite.com/COPYRIGHT  for license and copyright information
 """
 
 from xml.dom import Node

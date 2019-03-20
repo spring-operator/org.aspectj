@@ -2,11 +2,11 @@
 
 See the following document for more info on URLs:
 "Names and Addresses, URIs, URLs, URNs, URCs", at
-http://www.w3.org/pub/WWW/Addressing/Overview.html
+https://www.w3.org/pub/WWW/Addressing/Overview.html
 
 See also the HTTP spec (from which the error codes are derived):
 "HTTP - Hypertext Transfer Protocol", at
-http://www.w3.org/pub/WWW/Protocols/
+https://www.w3.org/pub/WWW/Protocols/
 
 Related standards and specs:
 - RFC1808: the "relative URL" spec. (authoritative status)
@@ -569,7 +569,7 @@ class FancyURLopener(URLopener):
     def http_error_401(self, url, fp, errcode, errmsg, headers, data=None):
         """Error 401 -- authentication required.
         See this URL for a description of the basic authentication scheme:
-        http://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt"""
+        https://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt"""
         if not headers.has_key('www-authenticate'):
             URLopener.http_error_default(self, url, fp,
                                          errmsg, headers)
@@ -1234,7 +1234,7 @@ if os.name == 'mac':
             except ic.error:
                 pass
             else:
-                proxies['http'] = 'http://%s' % value
+                proxies['http'] = 'https://%s' % value
         # FTP: XXXX To be done.
         # Gopher: XXXX To be done.
         return proxies
@@ -1271,7 +1271,7 @@ elif os.name == 'nt':
                     if proxyServer[:5] == 'http:':
                         proxies['http'] = proxyServer
                     else:
-                        proxies['http'] = 'http://%s' % proxyServer
+                        proxies['http'] = 'https://%s' % proxyServer
                         proxies['ftp'] = 'ftp://%s' % proxyServer
             internetSettings.Close()
         except (WindowsError, ValueError, TypeError):
@@ -1326,7 +1326,7 @@ def test(args=[]):
             'file://localhost/etc/passwd',
             'ftp://ftp.python.org/etc/passwd',
 ##          'gopher://gopher.micro.umn.edu/1/',
-            'http://www.python.org/index.html',
+            'https://www.python.org/index.html',
             ]
         if hasattr(URLopener, "open_https"):
             args.append('https://synergy.as.cmu.edu/~geek/')

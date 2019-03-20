@@ -762,7 +762,7 @@ class DOMImplementation:
             raise xml.dom.InvalidCharacterErr("Element with no name")
         prefix, localname = _nssplit(qualifiedName)
         if prefix == "xml" \
-           and namespaceURI != "http://www.w3.org/XML/1998/namespace":
+           and namespaceURI != "https://www.w3.org/XML/1998/namespace":
             raise xml.dom.NamespaceErr("illegal use of 'xml' prefix")
         if prefix and not namespaceURI:
             raise xml.dom.NamespaceErr(

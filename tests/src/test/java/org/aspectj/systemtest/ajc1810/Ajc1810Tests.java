@@ -3,7 +3,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
+ * https://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  *    Andy Clement - initial API and implementation
@@ -64,7 +64,7 @@ public class Ajc1810Tests extends org.aspectj.testing.XMLBasedAjcTestCase {
 		runTest("ambiguous message - 18");
 	}
 
-	// http://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html#jvms-4.7.6
+	// https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html#jvms-4.7.6
 	public void testInnerClassesAttributeStructure_493554() throws Exception {
 		runTest("pertarget");
 		

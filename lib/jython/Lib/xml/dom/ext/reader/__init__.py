@@ -2,14 +2,14 @@
 #
 # File Name:            __init__.py
 #
-# Documentation:        http://docs.4suite.org/4DOM/ext/reader/__init__.py.html
+# Documentation:        https://docs.4suite.org/4DOM/ext/reader/__init__.py.html
 #
 """
 The 4DOM reader module has routines for deserializing XML and HTML to DOM
-WWW: http://4suite.org/4DOM         e-mail: support@4suite.org
+WWW: https://4suite.org/4DOM         e-mail: support@4suite.org
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.org/COPYRIGHT  for license and copyright information
+See  https://4suite.org/COPYRIGHT  for license and copyright information
 """
 
 import string, urllib, urlparse, cStringIO, os

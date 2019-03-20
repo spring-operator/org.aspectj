@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available
  * under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution and is available at
- * http://eclipse.org/legal/epl-v10.html
+ * https://eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  *   Alexandre Vasseur         initial implementation
@@ -138,17 +138,17 @@ public class DocumentParser extends DefaultHandler {
 		xmlReader.setErrorHandler(parser);
 
 		try {
-			xmlReader.setFeature("http://xml.org/sax/features/validation", false);
+			xmlReader.setFeature("http://www.xml.org/sax/features/validation", false);
 		} catch (SAXException e) {
 			// fine, the parser don't do validation
 		}
 		try {
-			xmlReader.setFeature("http://xml.org/sax/features/external-general-entities", false);
+			xmlReader.setFeature("http://www.xml.org/sax/features/external-general-entities", false);
 		} catch (SAXException e) {
 			// fine, the parser don't do validation
 		}
 		try {
-			xmlReader.setFeature("http://xml.org/sax/features/external-parameter-entities", false);
+			xmlReader.setFeature("http://www.xml.org/sax/features/external-parameter-entities", false);
 		} catch (SAXException e) {
 			// fine, the parser don't do validation
 		}

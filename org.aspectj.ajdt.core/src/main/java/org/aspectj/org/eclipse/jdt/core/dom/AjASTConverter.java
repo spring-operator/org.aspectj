@@ -3,7 +3,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
+ * https://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  *     IBM Corporation - initial API and implementation
@@ -1041,7 +1041,7 @@ public class AjASTConverter extends ASTConverter {
 		int typeEnd = type.getStartPosition() + type.getLength() - 1;
 		int rightEnd = Math.max(typeEnd, argument.declarationSourceEnd);
 		/*
-		 * There is extra work to do to set the proper type positions See PR http://bugs.eclipse.org/bugs/show_bug.cgi?id=23284
+		 * There is extra work to do to set the proper type positions See PR https://bugs.eclipse.org/bugs/show_bug.cgi?id=23284
 		 */
 		if (isVarArgs) {
 			setTypeForSingleVariableDeclaration(variableDecl, type, extraDimensions + 1);
@@ -2710,7 +2710,7 @@ public class AjASTConverter extends ASTConverter {
 		int typeEnd = type.getStartPosition() + type.getLength() - 1;
 		int rightEnd = Math.max(typeEnd, localDeclaration.declarationSourceEnd);
 		/*
-		 * There is extra work to do to set the proper type positions See PR http://bugs.eclipse.org/bugs/show_bug.cgi?id=23284
+		 * There is extra work to do to set the proper type positions See PR https://bugs.eclipse.org/bugs/show_bug.cgi?id=23284
 		 */
 		setTypeForSingleVariableDeclaration(variableDecl, type, extraDimensions);
 		variableDecl
@@ -2925,7 +2925,7 @@ public class AjASTConverter extends ASTConverter {
 				final SimpleName simpleName = new SimpleName(this.ast);
 				simpleName.internalSetIdentifier(new String(name));
 				// we need to search for the starting position of the first brace in order to set the proper length
-				// PR http://dev.eclipse.org/bugs/show_bug.cgi?id=10759
+				// PR https://dev.eclipse.org/bugs/show_bug.cgi?id=10759
 				int end = retrieveEndOfElementTypeNamePosition(sourceStart, sourceStart + length)[1];
 				if (end == -1) {
 					end = sourceStart + length - 1;

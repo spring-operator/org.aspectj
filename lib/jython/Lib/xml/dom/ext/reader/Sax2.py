@@ -2,14 +2,14 @@
 #
 # File Name:            Sax2.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/Sax2.py.html
+# Documentation:        https://docs.4suite.com/4DOM/Sax2.py.html
 #
 """
 Components for reading XML files from a SAX2 producer.
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://4suite.com/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000, 2001 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://4suite.com/COPYRIGHT  for license and copyright information
 """
 
 import sys, string, cStringIO, os, urllib

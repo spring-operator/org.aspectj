@@ -11,4 +11,4 @@ o The contents of the binary distribution of Ant 1.6.3,
 
 o ant-src.zip, .java extracted from the source distribution of Ant 1.6.3.
 
-For Ant, see http://ant.apache.org.
+For Ant, see https://ant.apache.org.

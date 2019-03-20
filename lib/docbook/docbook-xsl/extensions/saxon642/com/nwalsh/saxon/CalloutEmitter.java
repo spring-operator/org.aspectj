@@ -17,7 +17,7 @@ import com.icl.saxon.tree.AttributeCollection;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides the guts of a
- * <a href="http://users.iclway.co.uk/mhkay/saxon/">Saxon 6.*</a>
+ * <a href="https://users.iclway.co.uk/mhkay/saxon/">Saxon 6.*</a>
  * implementation of callouts for verbatim environments. (It is used
  * by the Verbatim class.)</p>
  *
@@ -106,7 +106,7 @@ public class CalloutEmitter extends CopyEmitter {
    * <p>Examine the areaspec and determine the number and position of 
    * callouts.</p>
    *
-   * <p>The <code><a href="http://docbook.org/tdg/html/areaspec.html">areaspecNodeSet</a></code>
+   * <p>The <code><a href="https://docbook.org/tdg/html/areaspec.html">areaspecNodeSet</a></code>
    * is examined and a sorted list of the callouts is constructed.</p>
    *
    * <p>This data structure is used to augment the result tree fragment

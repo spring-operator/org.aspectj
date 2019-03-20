@@ -156,7 +156,7 @@ class DeclHandler:
     LexicalHandler.
 
     To se the DeclHandler for an XMLReader, use the setProperty method
-    with the identifier http://xml.org/sax/handlers/DeclHandler."""
+    with the identifier http://www.xml.org/sax/handlers/DeclHandler."""
 
     def attributeDecl(self, elem_name, attr_name, type, value_def, value):
         """Report an attribute type declaration.
@@ -220,7 +220,7 @@ class LexicalHandler:
 
     To set the LexicalHandler of an XMLReader, use the setProperty
     method with the property identifier
-    'http://xml.org/sax/handlers/LexicalHandler'. There is no
+    'http://www.xml.org/sax/handlers/LexicalHandler'. There is no
     guarantee that the XMLReader will support or recognize this
     property."""
 

@@ -13,7 +13,7 @@ class LexicalHandler:
     Default handler for lexical events
     Note: All methods can raise SAXException
     """
-    handlerId = 'http://xml.org/sax/handlers/lexical'
+    handlerId = 'http://www.xml.org/sax/handlers/lexical'
 
     def xmlDecl(self, version, encoding, standalone):
         """The XML Declaration"""
@@ -121,7 +121,7 @@ class DTDDeclHandler:
     ATTRIBUTE_REQUIRED = 3
     ATTRIBUTE_FIXED = 4
 
-    handlerId = 'http://xml.org/sax/handlers/dtd-decl'
+    handlerId = 'http://www.xml.org/sax/handlers/dtd-decl'
 
     def elementDecl(self, name, modelType, model):
         """
@@ -166,7 +166,7 @@ class NamespaceHandler:
     namespace declaration.
     """
 
-    handlerId = 'http://xml.org/sax/handlers/namespace'
+    handlerId = 'http://www.xml.org/sax/handlers/namespace'
 
     def startNamespaceDeclScope(self, prefix, uri):
         """
@@ -231,21 +231,21 @@ class SAXNotSupportedException(Exception):
 
 #Just a few helper lists with the core components
 CoreHandlers = [
-'http://xml.org/sax/handlers/lexical',
-'http://xml.org/sax/handlers/dtd-decl',
-'http://xml.org/sax/handlers/namespace'
+'http://www.xml.org/sax/handlers/lexical',
+'http://www.xml.org/sax/handlers/dtd-decl',
+'http://www.xml.org/sax/handlers/namespace'
 ]
 
 CoreProperties = [
-'http://xml.org/sax/properties/namespace-sep',
+'http://www.xml.org/sax/properties/namespace-sep',
 #write-only string
 #Set the separator to be used between the URI part of a name and the
 #local part of a name when namespace processing is being performed
-#(see the http://xml.org/sax/features/namespaces feature).  By
+#(see the http://www.xml.org/sax/features/namespaces feature).  By
 #default, the separator is a single space.  This property may not be
 #set while a parse is in progress (raises SAXNotSupportedException).
 
-'http://xml.org/sax/properties/dom-node',
+'http://www.xml.org/sax/properties/dom-node',
 #read-only Node instance
 #Get the DOM node currently being visited, if the SAX parser is
 #iterating over a DOM tree.  If the parser recognises and supports
@@ -253,7 +253,7 @@ CoreProperties = [
 #return null (this is a good way to check for availability before the
 #parse begins).
 
-'http://xml.org/sax/properties/xml-string'
+'http://www.xml.org/retired-page'
 #read-only string
 #Get the literal string of characters associated with the current
 #event.  If the parser recognises and supports this property but is
@@ -262,20 +262,20 @@ CoreProperties = [
 ]
 
 CoreFeatures = [
-'http://xml.org/sax/features/validation',
+'http://www.xml.org/sax/features/validation',
 #Validate (1) or don't validate (0).
 
-'http://xml.org/sax/features/external-general-entities',
+'http://www.xml.org/sax/features/external-general-entities',
 #Expand external general entities (1) or don't expand (0).
 
-'http://xml.org/sax/features/external-parameter-entities',
+'http://www.xml.org/sax/features/external-parameter-entities',
 #Expand external parameter entities (1) or don't expand (0).
 
-'http://xml.org/sax/features/namespaces',
+'http://www.xml.org/sax/features/namespaces',
 #Preprocess namespaces (1) or don't preprocess (0).  See also
 
-#the http://xml.org/sax/properties/namespace-sep property.
-'http://xml.org/sax/features/normalize-text'
+#the http://www.xml.org/sax/properties/namespace-sep property.
+'http://www.xml.org/sax/features/normalize-text'
 #Ensure that all consecutive text is returned in a single callback to
 #DocumentHandler.characters or DocumentHandler.ignorableWhitespace
 #(1) or explicitly do not require it (0).

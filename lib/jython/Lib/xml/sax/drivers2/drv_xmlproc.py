@@ -269,7 +269,7 @@ class NamespaceFilter:
         self._lex_handler = lexical
         self.driver = driver
         self.ns_map = {}       # Current prefix -> URI map
-        self.ns_map["xml"] = "http://www.w3.org/XML/1998/namespace"
+        self.ns_map["xml"] = "https://www.w3.org/XML/1998/namespace"
         self.ns_stack = []     # Pushed for each element, used to maint ns_map
         self.rep_ns_attrs = 0  # Report xmlns-attributes?
         self.parser = parser

@@ -193,39 +193,39 @@ def urldefrag(url):
 
 
 test_input = """
-      http://a/b/c/d
+      https://a/b/c/d
 
       g:h        = <URL:g:h>
-      http:g     = <URL:http://a/b/c/g>
-      http:      = <URL:http://a/b/c/d>
-      g          = <URL:http://a/b/c/g>
-      ./g        = <URL:http://a/b/c/g>
-      g/         = <URL:http://a/b/c/g/>
-      /g         = <URL:http://a/g>
-      //g        = <URL:http://g>
-      ?y         = <URL:http://a/b/c/d?y>
-      g?y        = <URL:http://a/b/c/g?y>
-      g?y/./x    = <URL:http://a/b/c/g?y/./x>
-      .          = <URL:http://a/b/c/>
-      ./         = <URL:http://a/b/c/>
-      ..         = <URL:http://a/b/>
-      ../        = <URL:http://a/b/>
-      ../g       = <URL:http://a/b/g>
-      ../..      = <URL:http://a/>
-      ../../g    = <URL:http://a/g>
-      ../../../g = <URL:http://a/../g>
-      ./../g     = <URL:http://a/b/g>
-      ./g/.      = <URL:http://a/b/c/g/>
-      /./g       = <URL:http://a/./g>
-      g/./h      = <URL:http://a/b/c/g/h>
-      g/../h     = <URL:http://a/b/c/h>
-      http:g     = <URL:http://a/b/c/g>
-      http:      = <URL:http://a/b/c/d>
-      http:?y         = <URL:http://a/b/c/d?y>
-      http:g?y        = <URL:http://a/b/c/g?y>
-      http:g?y/./x    = <URL:http://a/b/c/g?y/./x>
+      http:g     = <URL:https://a/b/c/g>
+      http:      = <URL:https://a/b/c/d>
+      g          = <URL:https://a/b/c/g>
+      ./g        = <URL:https://a/b/c/g>
+      g/         = <URL:https://a/b/c/g/>
+      /g         = <URL:https://a/g>
+      //g        = <URL:https://g>
+      ?y         = <URL:https://a/b/c/d?y>
+      g?y        = <URL:https://a/b/c/g?y>
+      g?y/./x    = <URL:https://a/b/c/g?y/./x>
+      .          = <URL:https://a/b/c/>
+      ./         = <URL:https://a/b/c/>
+      ..         = <URL:https://a/b/>
+      ../        = <URL:https://a/b/>
+      ../g       = <URL:https://a/b/g>
+      ../..      = <URL:https://a/>
+      ../../g    = <URL:https://a/g>
+      ../../../g = <URL:https://a/../g>
+      ./../g     = <URL:https://a/b/g>
+      ./g/.      = <URL:https://a/b/c/g/>
+      /./g       = <URL:https://a/./g>
+      g/./h      = <URL:https://a/b/c/g/h>
+      g/../h     = <URL:https://a/b/c/h>
+      http:g     = <URL:https://a/b/c/g>
+      http:      = <URL:https://a/b/c/d>
+      http:?y         = <URL:https://a/b/c/d?y>
+      http:g?y        = <URL:https://a/b/c/g?y>
+      http:g?y/./x    = <URL:https://a/b/c/g?y/./x>
 """
-# XXX The result for //g is actually http://g/; is this a problem?
+# XXX The result for //g is actually https://g/; is this a problem?
 
 def test():
     import sys

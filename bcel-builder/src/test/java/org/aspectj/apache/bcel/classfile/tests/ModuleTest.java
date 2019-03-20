@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  * ******************************************************************/
 
 package org.aspectj.apache.bcel.classfile.tests;
@@ -25,7 +25,7 @@ import org.aspectj.apache.bcel.classfile.Module.Uses;
 import org.aspectj.apache.bcel.classfile.SourceFile;
 
 /**
- * http://cr.openjdk.java.net/~mr/jigsaw/spec/lang-vm.html
+ * https://cr.openjdk.java.net/~mr/jigsaw/spec/lang-vm.html
  * 
  * @author Andy Clement
  */
