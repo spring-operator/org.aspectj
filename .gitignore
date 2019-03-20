@@ -1,9 +1,2 @@
 */bin
-log.txt
-.vscode
-.DS_Store
 aj-build/
-target/
-.classpath
-.project
-.settings

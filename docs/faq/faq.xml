@@ -165,22 +165,22 @@
         </question>
         <answer>
           <para>Since AspectJ 1.5.2, source code and documentation is available under the
-            <ulink url="http://www.eclipse.org/org/documents/epl-v10.php">Eclipse Public License 1.0</ulink>.
+            <ulink url="https://www.eclipse.org/org/documents/epl-v10.php">Eclipse Public License 1.0</ulink>.
           </para>
           <para>AspectJ 1.1 through 1.5.1 source code and documentation is available under the
-            <ulink url="http://eclipse.org/legal/cpl-v10.html">Common Public License 1.0</ulink>.
+            <ulink url="https://eclipse.org/legal/cpl-v10.html">Common Public License 1.0</ulink>.
           </para>
           <para>The AspectJ 1.0 tools are open-source software available under the
-            <ulink url="http://www.opensource.org/licenses/mozilla1.1">Mozilla Public License 1.1</ulink>.
+            <ulink url="https://www.opensource.org/licenses/mozilla1.1">Mozilla Public License 1.1</ulink>.
             That documentation is available under a separate license
             that precludes for-profit or commercial
               redistribution.  
           </para>
           <para>The runtime jar aspectjrt.jar and its distribution are also covered by the 
-          <ulink url="http://www.eclipse.org/org/documents/epl-v10.php">Eclipse Public License</ulink>.
+          <ulink url="https://www.eclipse.org/org/documents/epl-v10.php">Eclipse Public License</ulink>.
           </para>
           <para>For answers to common licensing questions, see the 
-          <ulink url="http://www.eclipse.org/legal/eplfaq.php">Eclipse Public License FAQ</ulink>.
+          <ulink url="https://www.eclipse.org/legal/eplfaq.php">Eclipse Public License FAQ</ulink>.
           </para>
           <para>
           </para>
@@ -201,8 +201,8 @@
           <para>It has evolved through open-source releases 
           to a strong user community and now operates as an
           open source project at 
-           <ulink url="http://eclipse.org/aspectj">
-                       http://eclipse.org/aspectj</ulink>
+           <ulink url="https://eclipse.org/aspectj">
+                       https://eclipse.org/aspectj</ulink>
             The AspectJ team works closely with the community
             to ensure AspectJ continues to evolve as an effective 
             aspect-oriented programming language and tool set.
@@ -210,7 +210,7 @@
           <para>
             The latest release is 1.2 <!-- XXX todo Update me! --> 
 	        which can be downloaded from the 
-             <ulink url="http://eclipse.org/aspectj">AspectJ project page</ulink>,
+             <ulink url="https://eclipse.org/aspectj">AspectJ project page</ulink>,
              including sources as described
              <xref linkend="q:buildingsource"/>.
              Development is focused on supporting applications, 
@@ -249,7 +249,7 @@
         </question>
         <answer>
           <para>From AspectJ's
-            <ulink url="http://eclipse.org/aspectj">web page
+            <ulink url="https://eclipse.org/aspectj">web page
             </ulink>, download the AspectJ distribution.
             The <literal>jar</literal> file is installed by executing
           </para>
@@ -392,8 +392,8 @@
             <listitem>
               <para>Eclipse (version 2.0)
                    in the Eclipse AspectJ Development Tools project
-                    <ulink url="http://eclipse.org/ajdt">
-                                http://eclipse.org/ajdt
+                    <ulink url="https://eclipse.org/ajdt">
+                                https://eclipse.org/ajdt
                     </ulink>
               </para>
             </listitem>
@@ -418,8 +418,8 @@
               <para>Netbeans up to 3.4
                     (and Sun Microsystems' Forte for Java (versions 2 and 3), Sun/One)
                     in the SourceForge AspectJ for NetBeans project
-                    <ulink url="http://aspectj4netbean.sourceforge.net">
-                                http://aspectj4netbean.sourceforge.net
+                    <ulink url="https://aspectj4netbean.sourceforge.io/">
+                                https://aspectj4netbean.sourceforge.io/
                     </ulink>
               </para>
             </listitem>
@@ -753,7 +753,7 @@
             do that, as will future developments.
           </para>
           <para>(Slides for a long talk on this topic were once available at
-              http://www.cs.ubc.ca/~gregor/vinst-2-17-01.zip.)
+              https://www.cs.ubc.ca/~gregor/vinst-2-17-01.zip.)
           </para>
         </answer>
       </qandaentry>
@@ -907,7 +907,7 @@ aspect.
           For AspectJ examples of configurable or reflection-dependent programs,
           see the sample code linked off the AspectJ documentation page
           or the examples discussed on the mailing list, e.g.,
-          <ulink url="http://dev.eclipse.org/mhonarc/lists/aspectj-users/msg02151.html">
+          <ulink url="https://dev.eclipse.org/mhonarc/lists/aspectj-users/msg02151.html">
 			Incremental and runtime weaving support?</ulink>.
           </para>
         </answer>
@@ -1024,10 +1024,10 @@ aspect.
               <listitem>
                 <para>AspectJ is available under a non-proprietary, open source license,
                  either the 
-                  <ulink url="http://www.opensource.org/licenses/mozilla1.1">
+                  <ulink url="https://www.opensource.org/licenses/mozilla1.1">
                             Mozilla Public License 1.1</ulink>
                   for 1.0 or the
-                  <ulink url="http://eclipse.org/legal/cpl-v10.html">
+                  <ulink url="https://eclipse.org/legal/cpl-v10.html">
                    Common Public License 1.0</ulink> for 1.1.
                   AspectJ will continue to evolve and be available, regardless
                   of the fate of any particular organization involved with
@@ -1182,8 +1182,8 @@ aspect PublicErrorLogging {
           <para>
         One paper someone else just reminded me of that talks some more 
         about this is:
-            <ulink url="http://www.cs.ubc.ca/~kdvolder/Workshops/OOPSLA2001/submissions/12-nordberg.pdf">
-              http://www.cs.ubc.ca/~kdvolder/Workshops/OOPSLA2001/submissions/12-nordberg.pdf
+            <ulink url="https://www.cs.ubc.ca/~kdvolder/Workshops/OOPSLA2001/submissions/12-nordberg.pdf">
+              https://www.cs.ubc.ca/~kdvolder/Workshops/OOPSLA2001/submissions/12-nordberg.pdf
             </ulink>
           </para>
         </answer>
@@ -1548,13 +1548,13 @@ aspect PublicErrorLogging {
           <ulink url="progguide/implementation.html">
           AspectJ Programming Guide Appendix, "Implementation Notes"</ulink>
           and the AspectJ bugs in the database at
-          <ulink url="http://bugs.eclipse.org/bugs">http://bugs.eclipse.org/bugs</ulink>
+          <ulink url="https://bugs.eclipse.org/bugs">https://bugs.eclipse.org/bugs</ulink>
           (using the product <literal>AspectJ</literal>).  Here are direct links to
-              <ulink url="http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
+              <ulink url="https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
                view open compiler bugs</ulink>,
-              <ulink url="http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ">
+              <ulink url="https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ">
                view all Aspectj bugs (open or closed)</ulink>, or
-              <ulink url="http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
+              <ulink url="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
                add new bugs</ulink>.
           </para>
         </answer>
@@ -1588,7 +1588,7 @@ aspect PublicErrorLogging {
           <para>
             For both mailing lists, only subscribed members may post messages.
             To subscribe, visit the 
-            <ulink url="http://eclipse.org/aspectj">AspectJ web site</ulink>.
+            <ulink url="https://eclipse.org/aspectj">AspectJ web site</ulink>.
           </para>
           <para>
             There you can also subscribe to 
@@ -1720,7 +1720,7 @@ ajc -argfile sources.lst
             <itemizedlist>
               <listitem>
                 <para>
-                  <ulink url="http://java.sun.com/j2se/">Java 2
+                  <ulink url="https://java.sun.com/j2se/">Java 2
                     Platform, Standard Edition
                   </ulink>
                 </para>
@@ -1728,7 +1728,7 @@ ajc -argfile sources.lst
               <listitem>
                 <para>
                   <ulink
-                      url="http://www-106.ibm.com/developerworks/java/jdk/">
+                      url="https://www-106.ibm.com/developerworks/java/jdk/">
                     developerWorks : Java technology : Tools and products - Developer kits
                   </ulink>
                 </para>
@@ -1736,14 +1736,14 @@ ajc -argfile sources.lst
               <listitem>
                 <para>
                   <ulink
-                      url="http://www-124.ibm.com/developerworks/oss/jikes/">
+                      url="https://www-124.ibm.com/developerworks/oss/jikes/">
                     developerWorks : Open Source - Jikes Project
                   </ulink>
                 </para>
               </listitem>
               <listitem>
                 <para>
-                  <ulink url="http://java.sun.com/cgi-bin/java-ports.cgi">Java
+                  <ulink url="https://java.sun.com/cgi-bin/java-ports.cgi">Java
                     Platform Ports
                   </ulink>
                 </para>
@@ -1985,9 +1985,9 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
                   other files might also need to be recompiled or re-woven.
               </para>
                 <para> Depending on what is modified, we may need to re-weave
-                    code.  If you change a pointcut and save it, we currently have
+                    code. ï¿½If you change a pointcut and save it, we currently have
                     to check everywhere in case a new match is occurring or an old
-                    match is no longer correct.  However, if you simply change
+                    match is no longer correct. ï¿½However, if you simply change
                     the body of an advice in an aspect, there is (usually) no need
                     to reweave as the affected classes call the advice and the
                     advice (by design) maintains its name in the recompiled
@@ -2095,7 +2095,7 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
           <para>
             The AspectJ team directly provided components for JBuilder, Forte,
             and Emacs and supported the open-source AspectJ plugin project
-            at <ulink url="http://eclipse.org/ajdt">http://eclipse.org/ajdt</ulink>
+            at <ulink url="https://eclipse.org/ajdt">https://eclipse.org/ajdt</ulink>
             which uses the AJDE API support for IDE's.  
             Supporting new IDE's is a matter of building on the AJDE API's,
             mostly likely adopting one of the existing open-source IDE
@@ -2108,7 +2108,7 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
               <listitem>
                 <para>IDEA/IntelliJ has an enthusiastic community and 
                 the developers are working on an extensibility API
-                - <ulink url="http://intellij.com">http://intellij.com</ulink>
+                - <ulink url="https://intellij.com">https://intellij.com</ulink>
                 </para>
               </listitem>
               <listitem>
@@ -2123,7 +2123,7 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
               </listitem>
               <listitem>
                 <para>Some have suggested Codeguide from Omnicore
-	         <ulink url="http://www.omnicore.com">http://www.omnicore.com/</ulink>
+	         <ulink url="https://www.omnicore.com">https://www.omnicore.com/</ulink>
                 </para>
               </listitem>
             </itemizedlist>
@@ -2144,7 +2144,7 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
           <para>Yes. The core AJDE API is extensible and the source code is
             available for download. Start by studying the sources
             for the existing IDE support linked off the AspectJ site
-            <ulink url="http://eclipse.org/aspectj">http://eclipse.org/aspectj</ulink>.
+            <ulink url="https://eclipse.org/aspectj">https://eclipse.org/aspectj</ulink>.
           </para>
         </answer>
       </qandaentry>
@@ -2337,10 +2337,10 @@ ajc -bootclasspath c:\jdk1.2\jre\lib\rt.jar \
             we have what we consider a better solution that uses
             around advice instead of introduction.  This solution is described
             in
-            <ulink url="http://aspectj.org/pipermail/users/2000/000534.html">
+            <ulink url="https://aspectj.org/pipermail/users/2000/000534.html">
               this thread (no longer available)
             </ulink> on the AspectJ users list, with some
-            <ulink url="http://aspectj.org/pipermail/users/2000/000536.html">
+            <ulink url="https://aspectj.org/pipermail/users/2000/000536.html">
               additional comments (no longer available)
             </ulink>.
           </para>
@@ -2876,7 +2876,7 @@ aspect MyMarker extends MarkerExample {
            in the AspectJ CVS tree  
            <literal>docs</literal> module <literal>sandbox</literal> directory.
            These are extracted and published (online only) 
-           <ulink url="http://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/sample-code.html">
+           <ulink url="https://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/sample-code.html">
 		   here
            </ulink>.
 			</para></listitem>
@@ -2951,7 +2951,7 @@ aspect MyMarker extends MarkerExample {
             serialization for long-term persistence has a number of drawbacks
             and many developers already use alternative solutions.  For one
             possibly standard solution, see
-            <ulink url="http://jcp.org/jsr/detail/057.jsp">
+            <ulink url="https://jcp.org/jsr/detail/057.jsp">
               Long-Term Persistence for JavaBeans Specification
             </ulink>.
           </para>
@@ -2988,8 +2988,8 @@ aspect MyMarker extends MarkerExample {
           and Mozilla 1.0.1 (Red Hat Linux 8.0).  
           The following link describes how to configure Mozilla/Netscape
           6.x/7.x to use the Java Plugin from a JRE/SDK installation:
-          <ulink url="http://java.sun.com/j2se/1.4.1/manual_install_linux.html">
-          http://java.sun.com/j2se/1.4.1/manual_install_linux.html</ulink>.
+          <ulink url="https://java.sun.com/j2se/1.4.1/manual_install_linux.html">
+          https://java.sun.com/j2se/1.4.1/manual_install_linux.html</ulink>.
           (Thanks to Chris Bartling for this answer.)
           </para>
         </answer>
@@ -3793,8 +3793,8 @@ aspect A {
 		  <para>The bugs affecting the semantics of the language
 			  are marked with the "info" keyword.  Find them with
 			  the query
-			  <ulink url="http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;keywords=info">
-						  http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;keywords=info
+			  <ulink url="https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;keywords=info">
+						  https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;keywords=info
 						  </ulink>
 		  </para>
         </answer>
@@ -3975,7 +3975,7 @@ aspect A {
               AspectJ for Emacs</ulink>, 
           <ulink url="http://aspectj4jbuildr.sourceforge.net">
               AspectJ for JBuilder</ulink>, and 
-          <ulink url="http://aspectj4netbean.sourceforge.net">
+          <ulink url="https://aspectj4netbean.sourceforge.io/">
               AspectJ for NetBeans</ulink>.
           </para>
           <para>This is the right level of separation/integration.  
@@ -4207,7 +4207,7 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
           <ulink url="http://hugunin.net/papers.html">
           	http://hugunin.net/papers.html</ulink>
           Jim summarized advice weaving in the AspectJ 1.1 implementation in the
-          <ulink url="http://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg00519.html">
+          <ulink url="https://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg00519.html">
           	following mailing-list reply</ulink>:
           </para>
           <para>
@@ -4297,7 +4297,7 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
 		  We recommend that you start with application-specific weaving.
           Note that you have an additional option if your application is based on the Spring framework. If you deploy in one of 
           the supported web servers or application servers, you can avoid modifications to the startup script. Please 
-          see <ulink url="http://static.springframework.org/spring/docs/2.5.x/reference/aop.html#aop-aj-ltw-spring">http://static.springframework.org/spring/docs/2.5.x/reference/aop.html#aop-aj-ltw-spring</ulink> for more details.
+          see <ulink url="https://docs.spring.io/spring/docs/2.5.x/reference/aop.html#aop-aj-ltw-spring">https://docs.spring.io/spring/docs/2.5.x/reference/aop.html#aop-aj-ltw-spring</ulink> for more details.
           </para>
         </answer>
       </qandaentry>
@@ -4428,8 +4428,8 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
               a test case has been written.  
               Here is a query for open compiler bugs:
               <!-- ulink gacks on ampersands in url value, so quote them -->
-              <ulink url="http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
-              http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED
+              <ulink url="https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
+              https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;component=Compiler&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED
               </ulink>
               </para>
               <para>For how to write test cases, see
@@ -4479,13 +4479,13 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
 				CVS Root <literal>dev.eclipse.org:/cvsroot/technology</literal>. 
 				For more information on accessing the CVS tree at eclipse.org, 
 				see the documentation from <ulink 
-				url="http://eclipse.org">http://eclipse.org</ulink>. Find 
+				url="https://eclipse.org">https://eclipse.org</ulink>. Find 
 				specific instructions in the AspectJ tree at <ulink 
-				url="http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.aspectj/modules/build/readme-build-and-test-aspectj.html?rev=HEAD&amp;content-type=text/html&amp;cvsroot=Technology_Project"> 
+				url="https://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.aspectj/modules/build/readme-build-and-test-aspectj.html?rev=HEAD&amp;content-type=text/html&amp;cvsroot=Technology_Project"> 
 				org.aspectj/modules/build/readme-build-and-test-aspectj.html</ulink>. 
 				If you would like to use Ant to checkout the sources, build the 
 				distribution, and test everything, see <ulink 
-				url="http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.aspectj/modules/build/release/build.xml?rev=HEAD&amp;content-type=text/xml&amp;cvsroot=Technology_Project"> 
+				url="https://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.aspectj/modules/build/release/build.xml?rev=HEAD&amp;content-type=text/xml&amp;cvsroot=Technology_Project"> 
 				org.aspectj/modules/build/release/build.xml</ulink>. </para>
           <para>
           To check out the source code in Eclipse go to (<literal>File > new > Other > CVS > Checkout Projects from CVS</literal>). You'll need about 125 MB of space for the source and build.
@@ -4530,7 +4530,7 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
 		  The <literal>org.aspectj.lib</literal> project is an AspectJ project so 
           you also have to have AJDT installed. For the latest AJDT release and
           download instructions visit the
-		  <ulink url="http://www.eclipse.org/ajdt/downloads/">AJDT Downloads</ulink> page.
+		  <ulink url="https://www.eclipse.org/ajdt/downloads/">AJDT Downloads</ulink> page.
 		  </para>
 			<para>
 			When you've added the variables click OK to do a full rebuild, then run the tests by going in the Package Explorer to:
@@ -4637,7 +4637,7 @@ java -javaagent:aspectjweaver.jar -classpath "aspects.jar:${CLASSPATH}" ..
 		  </para>
 			<para>
 			To import a locally built AspectJ into AJDT first follow the
-			instructions on <ulink url="http://www.eclipse.org/ajdt/faq.php#q:develop">
+			instructions on <ulink url="https://www.eclipse.org/ajdt/faq.php#q:develop">
 			How do I setup an AJDT development environment in Eclipse?</ulink>
 			for setting up an AJDT development environment and running the 
 			correctness tests. Then:
@@ -4922,7 +4922,7 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
         </question>
         <answer>
           <para>Visit the AspectJ project web site:
-            <ulink url="http://eclipse.org/aspectj">http://eclipse.org/aspectj</ulink>.
+            <ulink url="https://eclipse.org/aspectj">https://eclipse.org/aspectj</ulink>.
           </para>
         </answer>
       </qandaentry>
@@ -4933,8 +4933,8 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
         </question>
         <answer>
           <para>You can submit a bug from 
-              <ulink url="http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
-                          http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
+              <ulink url="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
+                          https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
               </ulink>.
             If it seems to be a bug in the compiler,
             please attach a small test case (source code) 
@@ -4958,8 +4958,8 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
           <para>You can reach other AspectJ users by using the
             aspectj-users mailing list.  You can subscribe to the list or view the
             list archives from the AspectJ home page
-            <ulink url="http://eclipse.org/aspectj">
-              http://eclipse.org/aspectj
+            <ulink url="https://eclipse.org/aspectj">
+              https://eclipse.org/aspectj
             </ulink>.
           </para>
         </answer>
@@ -4974,17 +4974,17 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
         <answer>
           <para>
 			It is very effective to do a google search of the form,
-            <ulink url="http://www.google.com/search?q=site:eclipse.org+cflowbelow">
-              http://www.google.com/search?q=site:eclipse.org+cflowbelow
+            <ulink url="https://www.google.com/search?q=site:eclipse.org+cflowbelow">
+              https://www.google.com/search?q=site:eclipse.org+cflowbelow
             </ulink>,
     		and you can use the eclipse.org search at
-            <ulink url="http://www.eclipse.org/search/search.cgi">
-              http://www.eclipse.org/search/search.cgi
+            <ulink url="https://www.eclipse.org/search/search.cgi">
+              https://www.eclipse.org/search/search.cgi
             </ulink>.
 		    You can also check the old archives available for download from
     		the AspectJ home page
-    		<ulink url="http://eclipse.org/aspectj">
-              http://eclipse.org/aspectj
+    		<ulink url="https://eclipse.org/aspectj">
+              https://eclipse.org/aspectj
             </ulink>.
           </para>
         </answer>
@@ -5035,11 +5035,11 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
              For the mail lists, we try to follow the conventions for open-source
              discussions that help avoid "the tragedy of the commons." 
              For example conventions, see
-            <ulink url="http://jakarta.apache.org/site/mail.html">
-              http://jakarta.apache.org/site/mail.html
+            <ulink url="https://jakarta.apache.org/site/mail.html">
+              https://jakarta.apache.org/site/mail.html
             </ulink> and
-            <ulink url="http://www.tuxedo.org/%7Eesr/faqs/smart-questions.html">
-              http://www.tuxedo.org/%7Eesr/faqs/smart-questions.html
+            <ulink url="https://www.tuxedo.org/%7Eesr/faqs/smart-questions.html">
+              https://www.tuxedo.org/%7Eesr/faqs/smart-questions.html
             </ulink>.
           </para>
         </answer>
@@ -5065,8 +5065,8 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
              <xref linkend="q:integrateWithDevTools"/>
           (including bug reports for the AJDE Eclipse support,
           which you can submit at
-            <ulink url="http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AJDT">
-                        http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AJDT
+            <ulink url="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AJDT">
+                        https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AJDT
             </ulink>).
           </para>
           <para>
@@ -5075,8 +5075,8 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
 	(most importantly) clear steps for reproducing the bug.  
         You may submit ajbrowser bugs against the IDE component of AspectJ 
         via the web form 
-            <ulink url="http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
-                        http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
+            <ulink url="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
+                        https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
             </ulink>.
           </para>
           <para>
@@ -5123,8 +5123,8 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
               <listitem>
                 <para>
 	Submit the bugs via the web form 
-            <ulink url="http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
-                        http://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
+            <ulink url="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ">
+                        https://bugs.eclipse.org/bugs/enter_bug.cgi?product=AspectJ
             </ulink>.
                 </para>
               </listitem>
@@ -5151,7 +5151,7 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
           <para>The documentation available in the distribution is the 
           best source for language and usage questions.  You can also find
           selected AspectJ papers and presentations on the 
-          <ulink url="http://www.parc.com/groups/csl/projects/aspectj/index.html">
+          <ulink url="https://www.parc.com/groups/csl/projects/aspectj/index.html">
                             PARC AspectJ page</ulink>.
           For links to Aspect-oriented programming materials in general, see
           <ulink url="http://aosd.net">http://aosd.net</ulink>.
@@ -5423,7 +5423,7 @@ aspectj.doc.dir=C:/eclipse/aspectj-workspace/aj-build/dist/ide/eclipse/org.aspec
             Below is a table describing the goals for the major releases.
             For information about specific features, search the bug database
             for <literal>RFE</literal>'s ("requests for enhancement") by
-            <ulink url="http://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;bug_severity=enhancement">
+            <ulink url="https://bugs.eclipse.org/bugs/buglist.cgi?product=AspectJ&amp;bug_severity=enhancement">
             	selecting severity of "enhancement"</ulink>.
      
             Like many open-source projects, we don't make or promise
