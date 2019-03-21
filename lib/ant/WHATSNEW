@@ -578,7 +578,7 @@ Changes that could break older environments:
 --------------------------------------------
 
 * License is now Apache Software License 2.0
-  see http://www.apache.org/licenses/ for more information
+  see https://www.apache.org/licenses/ for more information
 
 Fixed bugs:
 -----------
