@@ -33,7 +33,7 @@
 
     <ajc-test dir="apt/test1" title="annotation processing in action using SPI">
         <!--
-        what is SPI is described here - http://docs.oracle.com/javase/tutorial/sound/SPI-intro.html
+        what is SPI is described here - https://docs.oracle.com/javase/tutorial/sound/SPI-intro.html
         -->
         <!--<compile options="-1.8" files="Event.java SimpleProcessor.java" outjar="annotation_processors_with_spi.jar"/>-->
         <compile options="-1.8" files="Event.java SimpleProcessor.java" outjar="annotation_processor.jar"/>
