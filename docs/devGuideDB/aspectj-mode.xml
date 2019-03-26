@@ -179,9 +179,9 @@
     <title>Installation and Compatibility</title>
 
     <para> AspectJ mode requires the installation of <ulink
-        url="http://www.gnu.org/software/emacs/">GNU Emacs 20.3.1</ulink>
-      or <ulink url="http://www.xemacs.org/">XEmacs 21.1.14 (Unix/Linux)</ulink>,
-      or <ulink url="http://www.xemacs.org/">XEmacs 21.4 (Windows)</ulink>,
+        url="https://www.gnu.org/software/emacs/">GNU Emacs 20.3.1</ulink>
+      or <ulink url="https://www.xemacs.org/">XEmacs 21.1.14 (Unix/Linux)</ulink>,
+      or <ulink url="https://www.xemacs.org/">XEmacs 21.4 (Windows)</ulink>,
       or higher.  In general, the most recent non-alpha/beta versions of these
       are recommended.  A web browser is required to view this documentation
       via Emacs.  Small modifications to the <filename>.emacs</filename> file

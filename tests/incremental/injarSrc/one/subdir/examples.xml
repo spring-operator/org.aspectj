@@ -42,7 +42,7 @@
 
     <para>The examples source code is part of AspectJ's documentation
       distribution which may be downloaded from <ulink
-        url="http://aspectj.org/dl">the AspectJ download page</ulink>.</para>
+        url="https://aspectj.org/dl">the AspectJ download page</ulink>.</para>
 
     <para>Compiling most examples should be straightforward. Go the
       <filename><replaceable>InstallDir</replaceable>/examples</filename>
