@@ -1,7 +1,7 @@
 """HTML 2.0 parser.
 
 See the HTML 2.0 specification:
-http://www.w3.org/hypertext/WWW/MarkUp/html-spec/html-spec_toc.html
+https://www.w3.org/hypertext/WWW/MarkUp/html-spec/html-spec_toc.html
 """
 
 

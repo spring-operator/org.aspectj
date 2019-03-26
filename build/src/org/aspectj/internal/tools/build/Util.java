@@ -5,7 +5,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Xerox/PARC     initial implementation 
@@ -326,8 +326,8 @@ public class Util {
      * Currently very limited, and will only support the subset of 
      * features that we use.
      * sources:
-     * http://www-128.ibm.com/developerworks/library/os-ecl-osgi/index.html
-     * http://help.eclipse.org/help30/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/osgi/org/osgi/framework/Constants.html
+     * https://www-128.ibm.com/developerworks/library/os-ecl-osgi/index.html
+     * http://help.eclipse.org/kepler/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/osgi/org/osgi/framework/Constants.html
      */    
     public static class OSGIBundle {
         public static final Name BUNDLE_NAME = new Name("Bundle-Name");

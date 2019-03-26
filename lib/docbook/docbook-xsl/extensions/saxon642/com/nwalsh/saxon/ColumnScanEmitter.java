@@ -14,7 +14,7 @@ import com.icl.saxon.expr.FragmentValue;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://users.iclway.co.uk/mhkay/saxon/">Saxon 6.*</a>
+ * <a href="https://users.iclway.co.uk/mhkay/saxon/">Saxon 6.*</a>
  * implementation to scan the column widths in a result tree
  * fragment.</p>
  *

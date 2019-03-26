@@ -27,7 +27,7 @@ faster load time weaving and in some situations faster generated code.</p>
 <p>Until 1.6.7 there has not really been a way to determine if it is just one of your pointcuts that is hurting your weaving
 performance.  In 1.6.7 it is possible to turn on timers for pointcuts.  These timers show
 the time spent in the weaver matching the pointcut components against join points.  The details on this feature are
-here: <a href="http://andrewclement.blogspot.com/2009/11/aspectj-profiling-pointcut-matching.html">Profiling pointcut
+here: <a href="https://andrewclement.blogspot.com/2009/11/aspectj-profiling-pointcut-matching.html">Profiling pointcut
 matching</a>.  Basically by turning on the options '-timers -verbose' on the command line (or via Ant), output will be produced
 that looks a little like this:
 
@@ -47,7 +47,7 @@ Time:4ms (jps:#662) matching against
 
 <p>It shows the component, the number of joinpoints (jps) the weaver attempted to match it against and how many milliseconds were 
 spent performing those matches.  The options can also be turned on 
-<a href="http://contraptionsforprogramming.blogspot.com/2009/11/getting-aspectj-pointcut-matching-timer.html"/>through AJDT</a>.
+<a href="https://contraptionsforprogramming.blogspot.com/2009/11/getting-aspectj-pointcut-matching-timer.html"/>through AJDT</a>.
 Armed with this information you can optimize your pointcuts or post on the mailing list asking for help.  The timers can even be 
 turned on for load time weaving.  </p>
 
@@ -57,7 +57,7 @@ turned on for load time weaving.  </p>
 <p>The changes to enable pointcut profiling enabled some targeted work to be done on the matching algorithms.  These
 have remained unchanged for a few years, but in 1.6.7 have received a bit of an overhaul.  'Fast match' has
 been implemented for the execution() pointcut, drastically reducing weave times for heavy users of execution - more details
-<a href="http://andrewclement.blogspot.com/2009/11/aspectj-how-much-faster-is-aspectj-167.html">here</a>.  The pointcut cost
+<a href="https://andrewclement.blogspot.com/2009/11/aspectj-how-much-faster-is-aspectj-167.html">here</a>.  The pointcut cost
 calculator (which is used to sort pointcuts to optimize matching speed) has been reviewed and after determining that 
 this() ought to be considered cheaper than call() - any user combining those two pointcut designators should see an improvement 
 (one users build time reduced from 38minutes to 6minutes with that change!).</p>
@@ -70,7 +70,7 @@ memory usage, speeds up weaving and reduces the occurrences of those annoying 'c
 
 <p>The processing of include/exclude entries in aop.xml has been rewritten.  It now optimizes for many more common patterns.  If
 a pattern is optimized then there is no need to ask the weaver to do an expensive include/exclude match.  More details
-<a href="http://andrewclement.blogspot.com/2009/12/aspectj-167-and-faster-load-time.html">here</a>.
+<a href="https://andrewclement.blogspot.com/2009/12/aspectj-167-and-faster-load-time.html">here</a>.
 
 <h2>Less need to tweak options for load time weaving</h2>
 
@@ -87,7 +87,7 @@ been using either of these:
 
 <p>All those changes above, and some additional tweaks, mean we are now using less memory than ever before and getting
 things done more quickly.</p>
-<p><a href="http://andrewclement.blogspot.com/2009/12/aspectj-167-and-faster-load-time.html">This post</a> discusses
+<p><a href="https://andrewclement.blogspot.com/2009/12/aspectj-167-and-faster-load-time.html">This post</a> discusses
 the details.  From that article, the graph below shows the speed and memory consumption of the
 various AspectJ 1.6 releases when load time weaving a small application loading in Tomcat.  For each of 10 iterations (x axis), 
 the top comparison is startup time in

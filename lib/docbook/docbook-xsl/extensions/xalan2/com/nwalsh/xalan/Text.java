@@ -38,7 +38,7 @@ import javax.xml.transform.TransformerException;
  * <p>Copyright (C) 2001 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://xml.apache.org/xalan/">Xalan</a>
+ * <a href="https://xml.apache.org/xalan/">Xalan</a>
  * extension element for inserting text into a result tree.</p>
  *
  * <p><b>Change Log:</b></p>

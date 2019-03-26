@@ -2,13 +2,13 @@
 #
 # File Name:            __init__.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/__init__.py.html
+# Documentation:        https://twitter.com/_4_sale/4DOM/__init__.py.html
 #
 """
-WWW: http://4suite.org/4DOM         e-mail: support@4suite.org
+WWW: https://4suite.org/4DOM         e-mail: support@4suite.org
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.org/COPYRIGHT  for license and copyright information
+See  https://4suite.org/COPYRIGHT  for license and copyright information
 """
 
 
@@ -185,7 +185,7 @@ except ImportError:
 DOMImplementation.implementation = implementation
 
 XML_NAMESPACE = "http://www.w3.org/XML/1998/namespace"
-XMLNS_NAMESPACE = "http://www.w3.org/2000/xmlns/"
+XMLNS_NAMESPACE = "https://www.w3.org/2000/xmlns/"
 XHTML_NAMESPACE = "http://www.w3.org/1999/xhtml"
 
 import MessageSource

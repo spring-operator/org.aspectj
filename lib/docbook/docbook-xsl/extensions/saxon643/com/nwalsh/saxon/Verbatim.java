@@ -25,7 +25,7 @@ import com.nwalsh.saxon.CalloutEmitter;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
+ * <a href="https://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
  * implementation of two features that would be impractical to
  * implement directly in XSLT: line numbering and callouts.</p>
  *

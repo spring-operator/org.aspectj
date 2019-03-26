@@ -1,12 +1,12 @@
 /* -*- Mode: JDE; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *
  * This file is part of the debugger and core tools for the AspectJ(tm)
- * programming language; see http://aspectj.org
+ * programming language; see https://aspectj.org
  *
  * The contents of this file are subject to the Mozilla Public License
  * Version 1.1 (the "License"); you may not use this file except in
  * compliance with the License. You may obtain a copy of the License at
- * either http://www.mozilla.org/MPL/ or http://aspectj.org/MPL/.
+ * either https://www.mozilla.org/MPL/ or https://aspectj.org/MPL/.
  *
  * Software distributed under the License is distributed on an "AS IS" basis,
  * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
@@ -543,7 +543,7 @@ public class ClassDocImpl
      * @return the type specified by <code>classname</code>
      *         from the context of <code>this</code>.
      * @see    Util#findClass(ClassDoc,String,JavaCompiler)
-     * @see    <a href="http://java.sun.com/products/jdk/1.2/docs/tooldocs">
+     * @see    <a href="https://java.sun.com/products/jdk/1.2/docs/tooldocs">
      *         Javadoc Tool Homepage</a>
      */
     public com.sun.javadoc.ClassDoc findClass(String classname) {
@@ -603,7 +603,7 @@ public class ClassDocImpl
 
         // [4] Search the class imports. The order for this is specified
         // by the compiler -- if you don't believe me read for yourself:
-        // http://java.sun.com/products/jdk/1.2/docs/tooldocs/win32/ (cont't)
+        // https://java.sun.com/products/jdk/1.2/docs/tooldocs/win32/ (cont't)
         // javadoc.html#seesearchorder
         // We don't look in other package, so we assume classname
         // is full package-qualified.

@@ -1,5 +1,5 @@
 """ISO-8601 date format support, sufficient for the profile defined in
-<http://www.w3.org/TR/NOTE-datetime>.
+<https://www.w3.org/TR/NOTE-datetime>.
 
 The parser is more flexible on the input format than is required to support
 the W3C profile, but all accepted date/time values are legal ISO 8601 dates.

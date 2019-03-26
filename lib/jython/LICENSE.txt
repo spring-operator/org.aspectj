@@ -82,7 +82,7 @@ JPython version 1.1.x
      publicly, prepare derivative works, distribute, and otherwise use the
      Software alone or in any derivative version, provided, however, that
      CNRI's License Agreement and CNRI's notice of copyright, i.e.,
-     "Copyright ©1996-1999 Corporation for National Research Initiatives;
+     "Copyright ï¿½1996-1999 Corporation for National Research Initiatives;
      All Rights Reserved" are both retained in the Software, alone or in any
      derivative version prepared by Licensee.
 
@@ -94,7 +94,7 @@ JPython version 1.1.x
      Agreement. This Agreement may be located on the Internet using the
      following unique, persistent identifier (known as a handle):
      1895.22/1006. The License may also be obtained from a proxy server on
-     the Web using the following URL: http://hdl.handle.net/1895.22/1006."
+     the Web using the following URL: https://hdl.handle.net/1895.22/1006."
 
   3. In the event Licensee prepares a derivative work that is based on or
      incorporates the Software or any part thereof, and wants to make the

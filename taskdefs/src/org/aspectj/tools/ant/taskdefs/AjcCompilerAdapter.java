@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Xerox/PARC     initial implementation 
@@ -26,7 +26,7 @@ import java.io.File;
  * typically necessary to compile under ajc, so this 
  * implementation is not documented, recommended, or supported.
  * See Apache request for enhancement 
- * <a href="http://nagoya.apache.org/bugzilla/show_bug.cgi?id=7542">
+ * <a href="https://nagoya.apache.org/bugzilla/show_bug.cgi?id=7542">
  * 7542</a>.
  * @see CompilerAdapter
  */

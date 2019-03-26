@@ -13,7 +13,7 @@ While all files are extensively documented using ajdoc (the AspectJ version of j
 Within the ajdoc documentation, we tried to separate type names used in our examples from role names (as presented in GoF). We show roles names in italics and actual type names in code font.
 
 Questions, feedback, suggestions, etc.
-The AODP web page is http://www.cs.ubc.ca/labs/spl/aodp.html
+The AODP web page is https://www.cs.ubc.ca/labs/spl/aodp.html
 Please send all questions, feedback, and suggestions to Jan Hannemann (jan [AT] cs.ubc.ca). We are very much interested in improving our code. Please do not hesitate to drop us a line.
 
 

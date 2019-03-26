@@ -29,7 +29,7 @@ public class MakeTestClass {
 		" * This program and the accompanying materials are made available\n" + 
 		" * under the terms of the Eclipse Public License v1.0\n" + 
 		" * which accompanies this distribution and is available at\n" + 
-		" * http://www.eclipse.org/legal/epl-v10.html \n" + 
+		" * https://www.eclipse.org/legal/epl-v10.html \n" + 
 		" * \n" +  
 		" * ******************************************************************/\n" +
 		"package org.aspectj.systemtest.XXX;\n" +
