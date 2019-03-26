@@ -49,7 +49,7 @@ IndexOutOfBoundsException or similar, during attribute unpacking.  These issues 
 
 <h3>M2 - further optimizations in model for AJDT</h3>
 <p>More changes have been made for users trying out the <tt>-Xset:minimalModel=true</tt> option to try and reduce the memory used in
-their Eclipse/AJDT configurations. This option is discussed in detail <a href="http://andrewclement.blogspot.com/2010/07/ajdt-memory-usage-reduction.html">here</a>.
+their Eclipse/AJDT configurations. This option is discussed in detail <a href="https://andrewclement.blogspot.com/2010/07/ajdt-memory-usage-reduction.html">here</a>.
 It now saves even more memory.  Also, previously the amount of memory it recovered depended on compilation order (which the user has no control over), but now
 it is insensitive to ordering and should always recover the same amount across builds of the same project.  With a bit more positive feedback on this option,
 it will become the default under AJDT.</p>

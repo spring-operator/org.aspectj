@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://eclipse.org/legal/epl-v10.html 
+ * https://eclipse.org/legal/epl-v10.html 
  *
  * Created on 25.03.2005
  * 
@@ -48,7 +48,7 @@ aspect XlintTest {
      * no example for "invalidWildcardTypeName"
      * 
      * Never signalled anywhere in the codebase
-     * @see http://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg01404.html
+     * @see https://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg01404.html
      */
 
     
@@ -74,7 +74,7 @@ aspect XlintTest {
      * no example for "shadowNotInStructure"
      * 
      * Signalled if the structure model is broken, probably can't happen
-     * @see http://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg01404.html
+     * @see https://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg01404.html
      */
     
 

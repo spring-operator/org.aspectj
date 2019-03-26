@@ -57,7 +57,7 @@ machine.</p>
 Java compiler from eclipse.org. The source-file portion of the AspectJ compiler 
 is made complicated by inter-type declarations, declare parents, declare soft, 
 and privileged aspects. All of these constructs require changes to the 
-underlying compiler to modify Java’s name-binding and static checking behavior.</p>
+underlying compiler to modify Javaï¿½s name-binding and static checking behavior.</p>
 <p>As the compiler extends the jdt.core compiler, the package structure of this 
 module mimics that of the jdt.core module. The design works hard to minimize the 
 set of changes required to org.eclipse.jdt.core because a fun 3-way merge is 
@@ -152,10 +152,10 @@ worked around in any other way.</p>
 <p class="MsoNormal">The back-end of the AspectJ compiler instruments the code 
 of the system by inserting calls to the precompiled advice methods.&nbsp; It does 
 this by considering that certain principled places in bytecode represent 
-possible join points; these are the “static shadow” of those join points.&nbsp; For 
+possible join points; these are the ï¿½static shadowï¿½ of those join points.&nbsp; For 
 each such static shadow, it checks each piece of advice in the system and 
 determines if the advice's pointcut could match that static shadow.&nbsp; If it could 
-match, it inserts a call to the advice’s implementation method guarded by any 
+match, it inserts a call to the adviceï¿½s implementation method guarded by any 
 dynamic testing needed to ensure the match.</p>
 <h2>Runtime support library (runtime)</h2>
 <p>This library provides classes that are used by the generated code at runtime.&nbsp; 
@@ -620,7 +620,7 @@ standard eclipse EPL license header.</p>
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Jim Hugunin    initial implementation 
@@ -636,7 +636,7 @@ public interface ThrowSignature extends Signature { }</pre>
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Jim Hugunin    initial implementation 

@@ -153,7 +153,7 @@
 
     <xsl:choose>
       <xsl:when test="$passivetex.extensions != '0'">
-        <fotex:sort xmlns:fotex="http://www.tug.org/fotex">
+        <fotex:sort xmlns:fotex="https://www.tug.org/fotex">
           <xsl:copy-of select="$page-number-citations"/>
         </fotex:sort>
       </xsl:when>
@@ -196,7 +196,7 @@
 
     <xsl:choose>
       <xsl:when test="$passivetex.extensions != '0'">
-        <fotex:sort xmlns:fotex="http://www.tug.org/fotex">
+        <fotex:sort xmlns:fotex="https://www.tug.org/fotex">
           <xsl:copy-of select="$page-number-citations"/>
         </fotex:sort>
       </xsl:when>
@@ -239,7 +239,7 @@
 
     <xsl:choose>
       <xsl:when test="$passivetex.extensions != '0'">
-        <fotex:sort xmlns:fotex="http://www.tug.org/fotex">
+        <fotex:sort xmlns:fotex="https://www.tug.org/fotex">
           <xsl:copy-of select="$page-number-citations"/>
         </fotex:sort>
       </xsl:when>

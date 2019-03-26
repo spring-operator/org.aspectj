@@ -2,7 +2,7 @@
 
 This module provides an implementation of the SAX 2 interface;
 information about the Java version of the interface can be found at
-http://www.megginson.com/SAX/.  The Python version of the interface is
+http://www.megginson.com/downloads/SAX/.  The Python version of the interface is
 documented at <...>.
 
 This package contains the following interface classes and functions:

@@ -7,7 +7,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->
@@ -380,7 +380,7 @@
 </xsl:template>
 
 <xsl:template name="x.generate.citerefentry.link">
-  <xsl:text>http://example.com/cgi-bin/man.cgi?</xsl:text>
+  <xsl:text>https://example.com/cgi-bin/man.cgi?</xsl:text>
   <xsl:value-of select="refentrytitle"/>
   <xsl:text>(</xsl:text>
   <xsl:value-of select="manvolnum"/>

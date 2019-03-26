@@ -679,7 +679,7 @@ Changes that could break older environments:
   the wrapper script (not recommended).
 
 * The <script> task now requires Apache BSF instead of the older IBM
-  version.  See <http://jakarta.apache.org/bsf/>
+  version.  See <https://jakarta.apache.org/bsf/>
 
 * <xmlproperty> will no longer fail if the file to be loaded doesn't exist.
 
@@ -689,7 +689,7 @@ Changes that could break older environments:
 
 * The <ftp> and <telnet> tasks now require Jakarta Commons Net instead
   of the older ORO Netcomponents version.  See
-  <http://jakarta.apache.org/commons/net/index.html>.
+  <https://jakarta.apache.org/commons/net/index.html>.
 
 * <input> will no longer prompt the user and wait for input if the
   addproperty attribute is set to a property that has already been
@@ -1301,7 +1301,7 @@ Other changes:
 
 * New filter <concatfilter>. Adds the content of file at the beginning
   or end of a file. Discussion started at
-  http://marc.theaimsgroup.com/?l=ant-user&m=106366791228585&w=2
+  https://marc.theaimsgroup.com/?l=ant-user&m=106366791228585&w=2
 
 * New task <import>
 
@@ -2686,7 +2686,7 @@ Other changes:
   attribute.
 
 * <cab> can work on non-Windows platforms with the help of libcabinet.
-  See http://trill.cis.fordham.edu/~barbacha/cabinet_library/.
+  See https://www.fordham.edu/info/20344/computer_and_information_science/.
 
 * <ftp> now supports passive mode.
 

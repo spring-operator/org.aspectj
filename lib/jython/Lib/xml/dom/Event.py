@@ -2,14 +2,14 @@
 #
 # File Name:            Event.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/Event.py.html
+# Documentation:        https://twitter.com/_4_sale/4DOM/Event.py.html
 #
 """
 Implements DOM level 2 Mutation Events
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://twitter.com/_4_sale/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://twitter.com/_4_sale/COPYRIGHT  for license and copyright information
 """
 
 

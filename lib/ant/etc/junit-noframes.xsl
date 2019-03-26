@@ -1,5 +1,5 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
-	xmlns:lxslt="http://xml.apache.org/xslt"
+	xmlns:lxslt="https://xml.apache.org/xslt"
 	xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
 <xsl:output method="html" indent="yes" encoding="US-ASCII"
   doctype-public="-//W3C//DTD HTML 4.01 Transitional//EN" />
@@ -309,7 +309,7 @@
     <table width="100%">
     <tr>
         <td align="left"></td>
-        <td align="right">Designed for use with <a href='http://www.junit.org'>JUnit</a> and <a href='http://jakarta.apache.org/ant'>Ant</a>.</td>
+        <td align="right">Designed for use with <a href='https://www.junit.org'>JUnit</a> and <a href='https://jakarta.apache.org/ant'>Ant</a>.</td>
     </tr>
     </table>
     <hr size="1"/>

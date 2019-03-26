@@ -2,14 +2,14 @@
 #
 # File Name:            Node.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/Node.py.html
+# Documentation:        https://twitter.com/_4_sale/4DOM/Node.py.html
 #
 """
 Implements the basic tree structure of DOM
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://twitter.com/_4_sale/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://twitter.com/_4_sale/COPYRIGHT  for license and copyright information
 """
 
 from DOMImplementation import implementation

@@ -44,7 +44,7 @@ import com.nwalsh.xalan.Params;
  * <p>Copyright (C) 2001 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://xml.apache.org/xalan">Xalan</a>
+ * <a href="https://xml.apache.org/xalan">Xalan</a>
  * implementation of two features that would be impractical to
  * implement directly in XSLT: line numbering and callouts.</p>
  *

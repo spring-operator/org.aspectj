@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available
  * under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution and is available at
- * http://eclipse.org/legal/epl-v10.html
+ * https://eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  *   John Kew (vmware)         initial implementation
@@ -46,7 +46,7 @@ public class DefaultCacheKeyResolverTest extends TestCase {
 	}
 
 	public void testCreateURLClassLoaderScope() throws Exception {
-		URL testURLA = new URL("http://example.com");
+		URL testURLA = new URL("https://example.com");
 		URL testURLB = new URL("file:///tmp");
 		URL testURLC = new URL("ftp://ftp.example.com");
 		URLTestCL A = new URLTestCL(testURLA);
