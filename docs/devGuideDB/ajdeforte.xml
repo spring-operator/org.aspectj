@@ -4,9 +4,9 @@
       AspectJ Development Environment (AJDE) support for Forte
     </refname>
     <refpurpose>
-      Module extension to Sun's <ulink url="http://www.sun.com/forte/ffj">Forte
+      Module extension to Sun's <ulink url="https://www.sun.com/forte/ffj">Forte
       for Java</ulink> and
-        <ulink url="http://netbeans.org">NetBeans</ulink> IDEs.
+        <ulink url="https://netbeans.org">NetBeans</ulink> IDEs.
     </refpurpose>
   </refnamediv>
 
@@ -14,7 +14,7 @@
     <title>Overview</title>
     <para>
         For release-specific documentation refer to the <ulink
-        url="http://aspectj.org/doc/dist/changes.html"> changes file</ulink>.
+        url="https://aspectj.org/doc/dist/changes.html"> changes file</ulink>.
     </para>
 
     <para>
