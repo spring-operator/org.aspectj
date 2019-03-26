@@ -66,7 +66,7 @@ with <parameter>replacement</parameter> and returns the result.
 </refnamediv>
 <refsynopsisdiv>
 <synopsis>&lt;xsl:template name="xpointer.idref"&gt;
-&lt;xsl:param name="xpointer"&gt;http://...&lt;/xsl:param&gt;
+&lt;xsl:param name="xpointer"&gt;https://...&lt;/xsl:param&gt;
   ...
 &lt;/xsl:template&gt;</synopsis>
 </refsynopsisdiv>

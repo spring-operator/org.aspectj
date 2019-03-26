@@ -17,5 +17,5 @@
 	<topic label="FAQ" href="doc/faq.html"/>
 	<topic label="README for v1.1" href="doc/README-11.html"/>
 	<topic label="Porting Notes" href="doc/porting.html"/>
-    <topic label="AspectJ on the WWW" href="http://www.eclipse.org/aspectj"/>		
+    <topic label="AspectJ on the WWW" href="https://www.eclipse.org/aspectj"/>		
 </toc>
