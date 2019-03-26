@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Xerox/PARC     initial implementation 
@@ -64,8 +64,8 @@ public class Checklics extends MatchingTask {
 		final String IBM = "IBM";
 		final String VMWARE = "VMware";
 		final String IBM_LONG = "International Business Machines";
-		final String LIC_APL = "Apache Software Foundation (http://www.apache.org/)";
-		final String LIC_MPL = "http://aspectj.org/MPL/";
+		final String LIC_APL = "Apache Software Foundation (https://www.apache.org/)";
+		final String LIC_MPL = "https://aspectj.org/MPL/";
 		final String LIC_CPL = "Eclipse Public License";
 		final String LIC_ECPL = " Public License";
 		License APL = new License(APACHE_TAG, LIC_APL, APACHE);
@@ -531,7 +531,7 @@ class HeaderInfo {
 		writer.println(" * This program and the accompanying materials are made available ");
 		writer.println(" * under the terms of the Eclipse Public License v1.0 ");
 		writer.println(" * which accompanies this distribution and is available at ");
-		writer.println(" * http://www.eclipse.org/legal/epl-v10.html ");
+		writer.println(" * https://www.eclipse.org/legal/epl-v10.html ");
 		writer.println(" *  ");
 		writer.println(" * Contributors: ");
 		writer.println(" *     Xerox/PARC     initial implementation ");
@@ -548,7 +548,7 @@ class HeaderInfo {
 	 * /* ******************************************************************* Copyright (c) 1998-2001 Xerox Corporation, 2002 Palo
 	 * Alto Research Center, Incorporated (PARC). All rights reserved. This program and the accompanying materials are made
 	 * available under the terms of the Eclipse Public License v1.0 which accompanies this distribution and is available at
-	 * http://www.eclipse.org/legal/epl-v10.html
+	 * https://www.eclipse.org/legal/epl-v10.html
 	 * 
 	 * Contributors: Xerox/PARC initial implementation ******************************************************************
 	 */

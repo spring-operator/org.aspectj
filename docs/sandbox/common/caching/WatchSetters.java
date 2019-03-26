@@ -25,7 +25,7 @@ import java.lang.reflect.Method;
  * 
  * (Initial draft was sent to aspectj-users@eclipse.org by
  * Ricardo on 5/13/2003 
- * (http://dev.eclipse.org/mhonarc/lists/aspectj-users/msg00482.html)
+ * (https://dev.eclipse.org/mhonarc/lists/aspectj-users/msg00482.html)
  * but his email fails now, so we
  * did not get explicit authorization to post.)
  * 

@@ -11,7 +11,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->

@@ -1,6 +1,6 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
-  xmlns:lxslt="http://xml.apache.org/xslt"
-  xmlns:xalan="http://xml.apache.org/xalan"
+  xmlns:lxslt="https://xml.apache.org/xslt"
+  xmlns:xalan="https://xml.apache.org/xalan"
   xmlns:redirect="org.apache.xalan.lib.Redirect"
   exclude-result-prefixes="xalan"
   extension-element-prefixes="redirect">
@@ -784,14 +784,14 @@ will increase this number.
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td class="bannercell" rowspan="2">
-      <a href="http://jakarta.apache.org/">
-      <img src="http://jakarta.apache.org/images/jakarta-logo.gif" alt="http://jakarta.apache.org" align="left" border="0"/>
+      <a href="https://jakarta.apache.org/">
+      <img src="https://jakarta.apache.org/images/jakarta-logo.gif" alt="https://jakarta.apache.org" align="left" border="0"/>
       </a>
     </td>
     <td style="text-align:right"><h2>Source Code Metrics</h2></td>
     </tr>
     <tr>
-    <td style="text-align:right">Designed for use with <a href='http://www.webgain.com/products/quality_analyzer/'>Webgain QA/Metamata Metrics</a> and <a href='http://jakarta.apache.org'>Ant</a>.</td>
+    <td style="text-align:right">Designed for use with <a href='http://www.webgain.com/products/quality_analyzer/'>Webgain QA/Metamata Metrics</a> and <a href='https://jakarta.apache.org'>Ant</a>.</td>
     </tr>
   </table>
   <hr size="1"/>

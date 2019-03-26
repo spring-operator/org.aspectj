@@ -1,12 +1,12 @@
 /* -*- Mode: JDE; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *
  * This file is part of the debugger and core tools for the AspectJ(tm)
- * programming language; see http://aspectj.org
+ * programming language; see https://aspectj.org
  *
  * The contents of this file are subject to the Mozilla Public License
  * Version 1.1 (the "License"); you may not use this file except in
  * compliance with the License. You may obtain a copy of the License at
- * either http://www.mozilla.org/MPL/ or http://aspectj.org/MPL/.
+ * either https://www.mozilla.org/MPL/ or https://aspectj.org/MPL/.
  *
  * Software distributed under the License is distributed on an "AS IS" basis,
  * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
@@ -243,7 +243,7 @@ public class SeeTagImpl extends TagImpl implements SeeTag {
                 }
 
                 // As per the language spec...
-                // http://java.sun.com/docs/books/jls/second_edition/ (con't)
+                // https://java.sun.com/docs/books/jls/second_edition/ (con't)
                 // html/names.doc.html#32725
                 // We must first consider types before identifiers,
                 // therefore, if there is no right parent in the member name
@@ -552,7 +552,7 @@ public class SeeTagImpl extends TagImpl implements SeeTag {
      * This looks a bit hideous, and it is, I had a state diagram
      * with every thing labled, but I lost it -- sorry ;).
    	 * <pre>{@link  package.class#member  label} </pre>
-   	 * http://java.sun.com/j2se/1.3/docs/tooldocs/solaris/javadoc.html#\{@link}
+   	 * https://java.sun.com/j2se/1.3/docs/tooldocs/solaris/javadoc.html#\{@link}
      */
     private void resolve() {
         String str = text();

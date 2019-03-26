@@ -14,22 +14,22 @@ class XMLNS:
     """XMLNS, Namespaces in XML
 
     XMLNS (14-Jan-1999) is a W3C Recommendation.  It is specified in
-    http://www.w3.org/TR/REC-xml-names
+    https://www.w3.org/TR/REC-xml-names
 	BASE -- the basic namespace defined by the specification
 	XML -- the namespace for XML 1.0
 	HTML -- the namespace for HTML4.0
     """
 
-    BASE        = "http://www.w3.org/2000/xmlns/"
+    BASE        = "https://www.w3.org/2000/xmlns/"
     XML         = "http://www.w3.org/XML/1998/namespace"
-    HTML        = "http://www.w3.org/TR/REC-html40"
+    HTML        = "https://www.w3.org/TR/REC-html40"
 
 
 class SOAP:
     """SOAP, the Simple Object Access Protocol
 
     SOAP (v1.1, 8-May-2000) is a W3C note.  It is specified in
-    http://www.w3.org/TR/SOAP
+    https://www.w3.org/TR/SOAP
 	ENV -- namespace for the SOAP envelope
 	ENC -- namespace for the SOAP encoding in section 5
 	ACTOR_NEXT -- the URI for the "next" actor
@@ -38,14 +38,14 @@ class SOAP:
 
     ENV         = "http://schemas.xmlsoap.org/soap/envelope/"
     ENC         = "http://schemas.xmlsoap.org/soap/encoding/"
-    ACTOR_NEXT  = "http://schemas.xmlsoap.org/soap/actor/next"
+    ACTOR_NEXT  = "http://schemas.xmlsoap.org/soap/actor/next/"
 
 
 class DSIG:
     """DSIG, XML-Signature Syntax and Processing
 
     DSIG (19-Apr-2001) is a W3C Candidate Recommendation.  It is specified
-    in http://www.w3.org/TR/xmldsig-core/
+    in https://www.w3.org/TR/xmldsig-core/
 	BASE -- the basic namespace defined by the specification
 	DIGEST_SHA1 -- The SHA-1 digest method
 	DIGEST_MD2 -- The MD2 digest method
@@ -59,7 +59,7 @@ class DSIG:
 	C14N_COMM  -- XML canonicalization, retaining comments
     """
 
-    BASE        = "http://www.w3.org/2000/09/xmldsig#"
+    BASE        = "https://www.w3.org/2000/09/xmldsig#"
     DIGEST_SHA1 = BASE + "sha1"
     DIGEST_MD2  = BASE + "md2"
     DIGEST_MD5  = BASE + "md5"
@@ -68,7 +68,7 @@ class DSIG:
     HMAC_SHA1   = BASE + "hmac-sha1"
     ENC_BASE64  = BASE + "base64"
     ENVELOPED   = BASE + "enveloped-signature"
-    C14N        = "http://www.w3.org/TR/2000/CR-xml-c14n-20010315"
+    C14N        = "https://www.w3.org/TR/2000/CR-xml-c14n-20010315"
     C14N_COMM   = C14N + "#WithComments"
 
 
@@ -76,7 +76,7 @@ class ENCRYPTION:
     """ENCRYPTION, XML-Encryption Syntax and Processing
 
     ENCRYPTION (26-Jun-2001) is a W3C Working Draft.  It is specified in
-    http://www.w3.org/TR/xmlenc-core/
+    https://www.w3.org/TR/xmlenc-core/
 	BASE -- the basic namespace defined by the specification
 	BLOCK_3DES -- The triple-DES symmetric encryption method
 	BLOCK_AES128 -- The 128-bit AES symmetric encryption method
@@ -95,7 +95,7 @@ class ENCRYPTION:
 	DIGEST_RIPEMD160 -- The RIPEMD-160 digest method
     """
 
-    BASE             = "http://www.w3.org/2001/04/xmlenc#"
+    BASE             = "https://www.w3.org/2001/04/xmlenc#"
     BLOCK_3DES       = BASE + "des-cbc"
     BLOCK_AES128     = BASE + "aes128-cbc"
     BLOCK_AES256     = BASE + "aes256-cbc"
@@ -117,8 +117,8 @@ class SCHEMA:
     """SCHEMA, XML Schema
 
     XML Schema (30-Mar-2001) is a W3C candidate recommendation.  It is
-    specified in http://www.w3.org/TR/xmlschema-1 (Structures) and
-    http://www.w3.org/TR/xmlschema-2 (Datatypes). Schema has been under
+    specified in https://www.w3.org/TR/xmlschema-1 (Structures) and
+    https://www.w3.org/TR/xmlschema-2 (Datatypes). Schema has been under
     development for a comparitively long time, and other standards have
     at times used earlier drafts.  This class defines the most-used, and
     sets BASE to the latest.
@@ -130,12 +130,12 @@ class SCHEMA:
 	XSI_LIST -- a sequence of the XSIn values
     """
 
-    XSD1        = "http://www.w3.org/1999/XMLSchema"
-    XSD2        = "http://www.w3.org/2000/10/XMLSchema"
+    XSD1        = "https://www.w3.org/1999/XMLSchema"
+    XSD2        = "https://www.w3.org/2000/10/XMLSchema"
     XSD3        = "http://www.w3.org/2001/XMLSchema"
     XSD_LIST    = [ XSD1, XSD2, XSD3 ]
-    XSI1        = "http://www.w3.org/1999/XMLSchema-instance"
-    XSI2        = "http://www.w3.org/2000/10/XMLSchema-instance"
+    XSI1        = "https://www.w3.org/1999/XMLSchema-instance"
+    XSI2        = "https://www.w3.org/2000/10/XMLSchema-instance"
     XSI3        = "http://www.w3.org/2001/XMLSchema-instance"
     XSI_LIST    = [ XSI1, XSI2, XSI3 ]
     BASE        = XSD3
@@ -145,7 +145,7 @@ class XSLT:
     """XSLT, XSL Transformations
 
     XSLT (16-Nov-1999) is a W3C Recommendation.  It is specified in
-    http://www.w3.org/TR/xslt/
+    https://www.w3.org/TR/xslt/
 	BASE -- the basic namespace defined by this specification
     """
 
@@ -156,7 +156,7 @@ class XPATH:
     """XPATH, XML Path Language
 
     XPATH (16-Nov-1999) is a W3C Recommendation.  It is specified in
-    http://www.w3.org/TR/xpath.  This class is currently empty.
+    https://www.w3.org/TR/xpath.  This class is currently empty.
     """
 
     pass
@@ -166,7 +166,7 @@ class WSDL:
     """WSDL, Web Services Description Language
 
     WSDL (V1.1, 15-Mar-2001) is a W3C Note.  It is specified in
-    http://www.w3.org/TR/wsdl
+    https://www.w3.org/TR/wsdl
 	BASE -- the basic namespace defined by this specification
 	BIND_SOAP -- SOAP binding for WSDL
 	BIND_HTTP -- HTTP GET and POST binding for WSDL
