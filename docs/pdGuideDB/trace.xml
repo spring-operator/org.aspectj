@@ -24,7 +24,7 @@
             <title>Configuring Tracing</title>
         
             <para> When available (Java 5 or later) AspectJ will use the 
-            <ulink url="http://java.sun.com/j2se/1.5.0/docs/guide/logging/index.html">
+            <ulink url="https://java.sun.com/j2se/1.5.0/docs/guide/logging/index.html">
             java.util.logging</ulink> infrastructure
             configured using a <literal>logging.properties</literal> file. By default only error
             and fatal events will be logged but less severe warnings as well as fine-grained

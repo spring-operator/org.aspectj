@@ -4,13 +4,13 @@ r<refentry>
       AspectJ Development Environment (AJDE) support for JBuilder
     </refname>
 		<refpurpose>
-      OpenTool extension Borland's <ulink url="http://www.borland.com/jbuilder">JBuilder IDE</ulink>.
+      OpenTool extension Borland's <ulink url="https://www.borland.com/jbuilder">JBuilder IDE</ulink>.
     </refpurpose>
 	</refnamediv>
 	<refsect1>
 		<title>Overview</title>
 		<para>
-        For release-specific documentation refer to the <ulink url="http://aspectj.org/doc/dist/changes.html"> changes file</ulink>.
+        For release-specific documentation refer to the <ulink url="https://aspectj.org/doc/dist/changes.html"> changes file</ulink>.
     </para>
 		<para>
       AJDE for JBuilder will allow you to:
@@ -149,7 +149,7 @@ r<refentry>
 	<refsect1>
 		<title>Example: Setting up the "Spacewar" Sample Project</title>
 		<para>
-            To set up the Spacewar example first download it the <ulink url="http://aspectj.org/dl">examples distribution</ulink>.  Then
+            To set up the Spacewar example first download it the <ulink url="https://aspectj.org/dl">examples distribution</ulink>.  Then
 
             <orderedlist>
 				<listitem>
