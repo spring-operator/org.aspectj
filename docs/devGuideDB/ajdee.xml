@@ -247,7 +247,7 @@
     <title>Installation and Compatibility</title>
 
     <para> AJDEE requires the installation of
-      <ulink url="http://sunsite.auc.dk/jde">JDE 2.2.9beta4</ulink> or
+      <ulink url="https://sunsite.auc.dk/jde">JDE 2.2.9beta4</ulink> or
       higher and small edits to your <filename>.emacs</filename> file to
       configure AJDEE and enable autoloading AJDEE when a
       <filename>.java</filename> file is loaded.
