@@ -535,10 +535,10 @@
       <para>
         AspectJ is a compatible extension to the Java programming language. The
         AspectJ compiler adheres to the <ulink
-        url="http://java.sun.com/docs/books/jls/index.html"> <citetitle
+        url="https://java.sun.com/docs/books/jls/index.html"> <citetitle
         pubwork="book">The Java Language Specfication, Second
         Edition</citetitle></ulink> and to the <ulink
-        url="http://java.sun.com/docs/books/vmspec/index.html"><citetitle
+        url="https://java.sun.com/docs/books/vmspec/index.html"><citetitle
         pubwork="book">The Java Virtual Machine Specification, Second
         Edition</citetitle></ulink> and runs on any Java 2 compatible
         platform. The code it generates runs on any Java 1.1 or later

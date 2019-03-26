@@ -1282,7 +1282,7 @@ and sorted index terms.
 <refdescription>
 
 <para>If non-zero,
-<ulink url="http://www.arbortext.com/">Arbortext</ulink>
+<ulink url="https://www.arbortext.com/">Arbortext</ulink>
 extensions will be used.
 </para>
 
@@ -1300,7 +1300,7 @@ extensions will be used.
 <refdescription>
 
 <para>If non-zero,
-<ulink url="http://xml.apache.org/fop/">FOP</ulink>
+<ulink url="https://xml.apache.org/fop/">FOP</ulink>
 extensions will be used. At present, this consists of PDF bookmarks.
 </para>
 
