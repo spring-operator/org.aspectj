@@ -2,13 +2,13 @@
 #
 # File Name:            HTMLOptionElement.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/HTMLOptionElement.py.html
+# Documentation:        https://twitter.com/_4_sale/4DOM/HTMLOptionElement.py.html
 #
 """
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://twitter.com/_4_sale/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://twitter.com/_4_sale/COPYRIGHT  for license and copyright information
 """
 
 from xml.dom.html.HTMLElement import HTMLElement

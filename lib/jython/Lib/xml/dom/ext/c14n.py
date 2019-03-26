@@ -2,7 +2,7 @@
 '''XML Canonicalization
 
 This module generates canonical XML, as defined in
-    http://www.w3.org/TR/xml-c14n
+    https://www.w3.org/TR/xml-c14n
 
 It is limited in that it can only canonicalize an element and all its
 children; general document subsets are not supported.

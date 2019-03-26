@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available
  * under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution and is available at
- * http://eclipse.org/legal/epl-v10.html
+ * https://eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  * variant of Aspects in the aspectj5rt project - this one isn't Java5   - Andy Clement

@@ -24,7 +24,7 @@
 
      Please direct all questions, bug reports, or suggestions for 
      changes to the docbook@lists.oasis-open.org mailing list. For more
-     information, see http://www.oasis-open.org/docbook/.
+     information, see https://www.oasis-open.org/docbook/.
 -->
 
 <!-- ...................................................................... -->
@@ -39,14 +39,14 @@
      declaration:
 
      <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
+                    "https://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
                     [...]>
 
      Or, if you have a higher-level driver file that customizes DocBook,
      use the FPI in the parameter entity declaration:
 
      <!ENTITY % DocBookDTD PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-                "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+                "https://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
      %DocBookDTD;
 
      See the documentation for detailed information on the parameter

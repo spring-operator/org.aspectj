@@ -1,5 +1,5 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                xmlns:doc="http://nwalsh.com/xsl/documentation/1.0"
+                xmlns:doc="https://nwalsh.com/xsl/documentation/1.0"
                 exclude-result-prefixes="doc"		
                 version="1.0">
 
@@ -10,7 +10,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->
@@ -50,7 +50,7 @@ references. In that case you can select appropriate encoding here.</para>
     <xsl:with-param name="method" select="'xml'"/>
     <xsl:with-param name="indent" select="'yes'"/>
     <xsl:with-param name="doctype-public" select="'-//Sun Microsystems Inc.//DTD JavaHelp HelpSet Version 1.0//EN'"/>
-    <xsl:with-param name="doctype-system" select="'http://java.sun.com/products/javahelp/helpset_1_0.dtd'"/>
+    <xsl:with-param name="doctype-system" select="'https://java.sun.com/products/javahelp/helpset_1_0.dtd'"/>
     <xsl:with-param name="content">
       <xsl:call-template name="helpset.content"/>
     </xsl:with-param>
@@ -105,7 +105,7 @@ references. In that case you can select appropriate encoding here.</para>
     <xsl:with-param name="method" select="'xml'"/>
     <xsl:with-param name="indent" select="'yes'"/>
     <xsl:with-param name="doctype-public" select="'-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN'"/>
-    <xsl:with-param name="doctype-system" select="'http://java.sun.com/products/javahelp/toc_1_0.dtd'"/>
+    <xsl:with-param name="doctype-system" select="'https://java.sun.com/products/javahelp/toc_1_0.dtd'"/>
     <xsl:with-param name="encoding" select="$javahelp.encoding"/>
     <xsl:with-param name="content">
       <xsl:call-template name="helptoc.content"/>
@@ -276,7 +276,7 @@ references. In that case you can select appropriate encoding here.</para>
     <xsl:with-param name="method" select="'xml'"/>
     <xsl:with-param name="indent" select="'yes'"/>
     <xsl:with-param name="doctype-public" select="'-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN'"/>
-    <xsl:with-param name="doctype-system" select="'http://java.sun.com/products/javahelp/map_1_0.dtd'"/>
+    <xsl:with-param name="doctype-system" select="'https://java.sun.com/products/javahelp/map_1_0.dtd'"/>
     <xsl:with-param name="encoding" select="$javahelp.encoding"/>
     <xsl:with-param name="content">
       <xsl:call-template name="helpmap.content"/>
@@ -378,7 +378,7 @@ references. In that case you can select appropriate encoding here.</para>
     <xsl:with-param name="method" select="'xml'"/>
     <xsl:with-param name="indent" select="'yes'"/>
     <xsl:with-param name="doctype-public" select="'-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN'"/>
-    <xsl:with-param name="doctype-system" select="'http://java.sun.com/products/javahelp/index_1_0.dtd'"/>
+    <xsl:with-param name="doctype-system" select="'https://java.sun.com/products/javahelp/index_1_0.dtd'"/>
     <xsl:with-param name="encoding" select="$javahelp.encoding"/>
     <xsl:with-param name="content">
       <xsl:call-template name="helpidx.content"/>

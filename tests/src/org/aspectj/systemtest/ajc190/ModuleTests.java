@@ -3,7 +3,7 @@
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
+ * https://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
 package org.aspectj.systemtest.ajc190;
 
@@ -21,7 +21,7 @@ import junit.framework.Test;
 /**
  * Building and weaving with modules in the picture.
  * 
- * Module options from http://openjdk.java.net/jeps/261
+ * Module options from https://openjdk.java.net/jeps/261
  * 
  * @author Andy Clement
  * 

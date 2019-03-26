@@ -2,13 +2,13 @@
 #
 # File Name:            __init__.py
 #
-# Documentation:        http://docs.4suite.com/4DOM/__init__.py.html
+# Documentation:        https://twitter.com/_4_sale/4DOM/__init__.py.html
 #
 """
-WWW: http://4suite.com/4DOM         e-mail: support@4suite.com
+WWW: https://twitter.com/_4_sale/4DOM         e-mail: support@4suite.com
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.com/COPYRIGHT  for license and copyright information
+See  https://twitter.com/_4_sale/COPYRIGHT  for license and copyright information
 """
 
 """Some Helper functions: 4DOM/PyXML-specific Extensions to the DOM,
@@ -241,7 +241,7 @@ def GetAllNs(node):
 def SplitQName(qname):
     """
     Input a QName according to XML Namespaces 1.0
-    http://www.w3.org/TR/REC-xml-names
+    https://www.w3.org/TR/REC-xml-names
     Return the name parts according to the spec
     In the case of namespace declarations the tuple returned
     is (prefix, 'xmlns')
