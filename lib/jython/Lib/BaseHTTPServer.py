@@ -27,7 +27,7 @@ XXX To do:
 # <draft-ietf-http-v10-spec-00.txt>                     H. Frystyk Nielsen
 # Expires September 8, 1995                                  March 8, 1995
 #
-# URL: http://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt
+# URL: https://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt
 
 
 # Log files
@@ -421,7 +421,7 @@ class BaseHTTPRequestHandler(SocketServer.StreamRequestHandler):
 
     # Table mapping response codes to messages; entries have the
     # form {code: (shortmessage, longmessage)}.
-    # See http://www.w3.org/hypertext/WWW/Protocols/HTTP/HTRESP.html
+    # See https://www.w3.org/hypertext/WWW/Protocols/HTTP/HTRESP.html
     responses = {
         200: ('OK', 'Request fulfilled, document follows'),
         201: ('Created', 'Document created, URL follows'),

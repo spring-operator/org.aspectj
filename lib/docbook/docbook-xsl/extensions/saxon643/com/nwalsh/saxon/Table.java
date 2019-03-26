@@ -22,7 +22,7 @@ import com.icl.saxon.functions.Extensions;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
+ * <a href="https://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
  * implementation of some code to adjust CALS Tables to HTML
  * Tables.</p>
  *

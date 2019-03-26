@@ -80,7 +80,7 @@ RemoteException {\"" "'>'n \"}\"'>'n '>'n" "'> \"public void unsetSessionContext
  '(jde-javadoc-display-doc t)
  '(jde-imenu-modifier-abbrev-alist (quote (("public" . 43) ("protected" . 177) ("private" . 172) ("static" . 2215) ("transient" . 35) ("volatile" . 126) ("abstract" . 170) ("final" . 182) ("native" . 36) ("synchronized" . 64) ("strictfp" . 37))))
  '(jde-db-debugger (quote ("JDEbug" "/usr/local/jdk1.2.2/lib/i386" . "Executable")) t)
- '(jde-jdk-doc-url "http://www.javasoft.com/products/jdk/1.1/docs/index.html")
+ '(jde-jdk-doc-url "https://www.oracle.com/index.html")
  '(jde-gen-cflow-enable t)
  '(jde-compiler "javac")
  '(jde-javadoc-gen-verbose nil)

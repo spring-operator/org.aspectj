@@ -5,7 +5,7 @@
  * This program and the accompanying materials are made available
  * under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution and is available at
- * http://eclipse.org/legal/epl-v10.html
+ * https://eclipse.org/legal/epl-v10.html
  *
  * Contributors:
  *   Alexandre Vasseur         initial implementation
@@ -15,12 +15,12 @@ AspectJ 5 DTD
 To use this DTD, start your defintion file with
 	<!DOCTYPE aspectj PUBLIC
 	    "-//AspectJ//DTD 1.5.0//EN"
-	    "http://.../dtd/aspectj_1_5_0.dtd">
+	    "https://.../dtd/aspectj_1_5_0.dtd">
 
 You can also use the "aliasing DTD" that matchs always the latest release of AspectJ
 <!DOCTYPE aspectj PUBLIC
     "-//AspectJ//DTD//EN"
-    "http://.../dtd/aspectj.dtd">
+    "https://.../dtd/aspectj.dtd">
 
 To not use this DTD, start your definition file with
 	<?xml version="1.0"?>

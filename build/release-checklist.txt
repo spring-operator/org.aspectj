@@ -291,7 +291,7 @@ Once developer consensus is reached on the build:
     download.eclipse.org/technology/ajdt/aspectj-<version>.jar          [   ]
     
 * download from 
-  http://download.eclipse.org/technology/ajdt/aspectj-<version>.jar
+  https://download.eclipse.org/technology/ajdt/aspectj-<version>.jar
   and install                                                           [   ]
   
 * post news article on project home page                                [   ]

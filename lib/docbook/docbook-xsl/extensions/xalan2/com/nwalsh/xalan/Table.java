@@ -29,7 +29,7 @@ import org.apache.xml.utils.AttList;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://xml.apache.org/xalan/">Xalan</a>
+ * <a href="https://xml.apache.org/xalan/">Xalan</a>
  * implementation of some code to adjust CALS Tables to HTML
  * Tables.</p>
  *

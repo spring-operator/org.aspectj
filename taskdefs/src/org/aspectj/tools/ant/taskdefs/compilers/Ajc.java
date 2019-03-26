@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Xerox/PARC     initial implementation 
@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * Ajc uses this as the CompilerAdapter.
  *
- * This task was developed by the <a href="http://aspectj.org">AspectJ Project</a>
+ * This task was developed by the <a href="https://aspectj.org">AspectJ Project</a>
  *
  * @author <a href="mailto:palm@parc.xerox.com">Jeffrey Palm</a>
  * @see    org.aspectj.tools.ant.taskdefs.Ajc

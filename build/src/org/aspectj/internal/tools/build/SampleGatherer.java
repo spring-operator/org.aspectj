@@ -4,7 +4,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Wes Isberg     initial implementation 
@@ -439,14 +439,14 @@ class SamplesRenderer {
     public static final String COPYRIGHT = 
         "<p><small>Copyright 2003 Contributors. All Rights Reserved. "
         + "This sample code is made available under the Common Public "        + "License version 1.0 available at "
-        + "<a href=\"http://www.eclipse.org/legal/epl-v10.html\">"
-        + "http://www.eclipse.org/legal/epl-v10.html</a>."
+        + "<a href=\"https://www.eclipse.org/legal/epl-v10.html\">"
+        + "https://www.eclipse.org/legal/epl-v10.html</a>."
         + "Contributors are listed in this document as authors. "
         + "Permission to republish portions of this sample code "
         + "is hereby granted if the publication acknowledges "
         + "the author by name and "
         + "the source by reference to the AspectJ project home page "
-        + " at http://eclipse.org/aspectj.</small></p>"
+        + " at https://eclipse.org/aspectj.</small></p>"
         + EOL;
     
     /** template algorithm to render */
