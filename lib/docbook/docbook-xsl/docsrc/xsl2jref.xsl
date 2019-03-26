@@ -1,8 +1,8 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version='1.0'
-                xmlns:doc="http://nwalsh.com/xsl/documentation/1.0"
-                xmlns:lxslt="http://xml.apache.org/xslt"
+                xmlns:doc="https://nwalsh.com/xsl/documentation/1.0"
+                xmlns:lxslt="https://xml.apache.org/xslt"
                 exclude-result-prefixes="doc xsl lxslt">
 
 <xsl:include href="../html/param.xsl"/>
@@ -22,7 +22,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->

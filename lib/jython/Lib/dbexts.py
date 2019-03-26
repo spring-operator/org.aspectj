@@ -421,7 +421,7 @@ class dbexts:
 		u.unload(sql)
 
 class Bulkcopy:
-	"""The idea for a bcp class came from http://object-craft.com.au/projects/sybase"""
+	"""The idea for a bcp class came from http://object-craft.com.au/projects/sybase/"""
 	def __init__(self, dst, table, include=[], exclude=[], autobatch=0, executor=executor):
 		self.dst = dst
 		self.table = table

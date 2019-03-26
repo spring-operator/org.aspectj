@@ -535,7 +535,7 @@ class Random:
 
 ## -------------------- beta --------------------
 ## See
-## http://sourceforge.net/bugs/?func=detailbug&bug_id=130030&group_id=5470
+## https://sourceforge.net/bugs/?func=detailbug&bug_id=130030&group_id=5470
 ## for Ivan Frohne's insightful analysis of why the original implementation:
 ##
 ##    def betavariate(self, alpha, beta):

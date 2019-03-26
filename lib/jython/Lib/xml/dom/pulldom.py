@@ -55,7 +55,7 @@ class PullDOM(xml.sax.ContentHandler):
 
     def startElementNS(self, name, tagName , attrs):
         # Retrieve xml namespace declaration attributes.
-        xmlns_uri = 'http://www.w3.org/2000/xmlns/'
+        xmlns_uri = 'https://www.w3.org/2000/xmlns/'
         xmlns_attrs = getattr(self, '_xmlns_attrs', None)
         if xmlns_attrs is not None:
             for aname, value in xmlns_attrs:

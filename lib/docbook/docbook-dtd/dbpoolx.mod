@@ -24,7 +24,7 @@
 
      Please direct all questions, bug reports, or suggestions for
      changes to the docbook@lists.oasis-open.org mailing list. For more
-     information, see http://www.oasis-open.org/docbook/.
+     information, see https://www.oasis-open.org/docbook/.
 -->
 
 <!-- ...................................................................... -->

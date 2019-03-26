@@ -24,7 +24,7 @@
 
      Please direct all questions, bug reports, or suggestions for
      changes to the docbook@lists.oasis-open.org mailing list. For more
-     information, see http://www.oasis-open.org/docbook/.
+     information, see https://www.oasis-open.org/docbook/.
 -->
 
 <!-- ...................................................................... -->
@@ -80,7 +80,7 @@
 <!NOTATION PCX		PUBLIC 
 "+//ISBN 0-7923-9432-1::Graphic Notation//NOTATION ZSoft PCX bitmap//EN">
 <!NOTATION PIC		SYSTEM "PIC">
-<!NOTATION PNG          SYSTEM "http://www.w3.org/TR/REC-png">
+<!NOTATION PNG          SYSTEM "https://www.w3.org/TR/REC-png">
 <!NOTATION PS		SYSTEM "PS">
 <!NOTATION SGML		PUBLIC 
 "ISO 8879:1986//NOTATION Standard Generalized Markup Language//EN">

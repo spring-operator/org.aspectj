@@ -1,7 +1,7 @@
 /*
  * From:
  * 
- * http://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/doc/progguide/semantics-declare.html#d0e6499
+ * https://dev.eclipse.org/viewcvs/indextech.cgi/~checkout~/aspectj-home/doc/progguide/semantics-declare.html#d0e6499
  *
  * Pointcuts that appear inside of declare forms have certain restrictions. 
  * Like other pointcuts, these pick out join points, but they do so in a 

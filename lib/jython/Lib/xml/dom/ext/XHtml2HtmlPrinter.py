@@ -6,7 +6,7 @@ from xml.dom.html import HTML_FORBIDDEN_END
 class HtmlDocType:
     name = 'HTML'
     publicId = "-//W3C//DTD HTML 4.0//EN"
-    systemId = "http://www.w3.org/TR/REC-html40/strict.dtd"
+    systemId = "https://www.w3.org/TR/REC-html40/strict.dtd"
     entities = notations = []
 
 class HtmlAttr:

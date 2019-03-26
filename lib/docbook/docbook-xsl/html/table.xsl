@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                xmlns:doc="http://nwalsh.com/xsl/documentation/1.0"
-                xmlns:stbl="http://nwalsh.com/xslt/ext/com.nwalsh.saxon.Table"
+                xmlns:doc="https://nwalsh.com/xsl/documentation/1.0"
+                xmlns:stbl="https://nwalsh.com/xslt/ext/com.nwalsh.saxon.Table"
                 xmlns:xtbl="com.nwalsh.xalan.Table"
-                xmlns:lxslt="http://xml.apache.org/xslt"
+                xmlns:lxslt="https://xml.apache.org/xslt"
                 exclude-result-prefixes="doc stbl xtbl lxslt"
                 version='1.0'>
 
@@ -12,7 +12,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->

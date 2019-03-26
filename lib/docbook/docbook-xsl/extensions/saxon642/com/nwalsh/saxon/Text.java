@@ -25,7 +25,7 @@ import org.xml.sax.AttributeList;
  * <p>Copyright (C) 2000 Norman Walsh.</p>
  *
  * <p>This class provides a
- * <a href="http://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
+ * <a href="https://users.iclway.co.uk/mhkay/saxon/">Saxon</a>
  * extension element for inserting text into a result tree.</p>
  *
  * <p><b>Change Log:</b></p>

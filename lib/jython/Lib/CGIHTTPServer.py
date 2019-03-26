@@ -132,7 +132,7 @@ class CGIHTTPRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
                                 `scriptname`)
                 return
 
-        # Reference: http://hoohoo.ncsa.uiuc.edu/cgi/env.html
+        # Reference: https://hoohoo.ncsa.uiuc.edu/cgi/env.html
         # XXX Much of the following could be prepared ahead of time!
         env = {}
         env['SERVER_SOFTWARE'] = self.version_string()

@@ -26,7 +26,7 @@
 
   <xsl:output method="html" indent="yes" encoding="US-ASCII"
               doctype-public="-//W3C//DTD HTML 4.01//EN"
-              doctype-system="http://www.w3.org/TR/html401/strict.dtd"/>
+              doctype-system="https://www.w3.org/TR/html401/strict.dtd"/>
 
   <!-- Copy standard document elements.  Elements that
        should be ignored must be filtered by apply-templates
@@ -75,7 +75,7 @@
         <h1>
           <a name="top"><xsl:value-of select="$title"/></a>
         </h1>
-        <p style="text-align: right">Designed for use with <a href="http://ant.apache.org/">Apache Ant</a>.</p>
+        <p style="text-align: right">Designed for use with <a href="https://ant.apache.org/">Apache Ant</a>.</p>
         <hr/>
         <table border="0" width="100%" cellspacing="1">
           
