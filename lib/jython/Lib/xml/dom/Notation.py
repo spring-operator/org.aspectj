@@ -2,14 +2,14 @@
 #
 # File Name:            Notation.py
 #
-# Documentation:        http://docs.4suite.org/4DOM/Notation.py.html
+# Documentation:        https://docs.4suite.org/4DOM/Notation.py.html
 #
 """
 Implementation of DOM Level 2 Notation interface
-WWW: http://4suite.org/4DOM         e-mail: support@4suite.org
+WWW: https://4suite.org/4DOM         e-mail: support@4suite.org
 
 Copyright (c) 2000 Fourthought Inc, USA.   All Rights Reserved.
-See  http://4suite.org/COPYRIGHT  for license and copyright information
+See  https://4suite.org/COPYRIGHT  for license and copyright information
 """
 
 from xml.dom import Node

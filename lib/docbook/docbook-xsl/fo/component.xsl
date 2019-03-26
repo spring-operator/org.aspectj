@@ -8,7 +8,7 @@
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
-     See ../README or http://nwalsh.com/docbook/xsl/ for copyright
+     See ../README or https://nwalsh.com/docbook/xsl/ for copyright
      and other information.
 
      ******************************************************************** -->
@@ -27,7 +27,7 @@
   </xsl:variable>
 
   <xsl:if test="$passivetex.extensions != 0">
-    <fotex:bookmark xmlns:fotex="http://www.tug.org/fotex"
+    <fotex:bookmark xmlns:fotex="https://www.tug.org/fotex"
                     fotex-bookmark-level="2"
                     fotex-bookmark-label="{$id}">
       <xsl:value-of select="$title"/>

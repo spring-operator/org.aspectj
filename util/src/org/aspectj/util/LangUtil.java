@@ -5,7 +5,7 @@
  * This program and the accompanying materials are made available 
  * under the terms of the Eclipse Public License v1.0 
  * which accompanies this distribution and is available at 
- * http://www.eclipse.org/legal/epl-v10.html 
+ * https://www.eclipse.org/legal/epl-v10.html 
  *  
  * Contributors: 
  *     Xerox/PARC     initial implementation 
@@ -70,8 +70,8 @@ public class LangUtil {
 	}
 
 	static {
-		// http://www.oracle.com/technetwork/java/javase/versioning-naming-139433.html
-		// http://openjdk.java.net/jeps/223 "New Version-String Scheme"
+		// https://www.oracle.com/technetwork/java/javase/versioning-naming-139433.html
+		// https://openjdk.java.net/jeps/223 "New Version-String Scheme"
 		try {
 			String vm = System.getProperty("java.version"); // JLS 20.18.7
 			if (vm == null) {
